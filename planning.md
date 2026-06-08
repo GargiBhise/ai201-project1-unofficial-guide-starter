@@ -9,7 +9,7 @@
 
 ## Domain
 
-My domain is student reviews of Computer Science professors at Cal Poly Pomona. This knowledge is valuable because official university pages and course catalogs usually list course descriptions, prerequisites, and instructor names, but they do not explain what students actually experience in the class. Students often want to know whether a professor gives useful feedback, how hard the exams are, whether attendance matters, whether the course is project-heavy, and whether the class is useful for learning or mainly an easy grade.
+My domain is student reviews of Computer Science professors at Cal Poly Pomona. I chose this because I studied at Cal Poly Pomona for my master’s, and many of the professors in this dataset were my professors or familiar names from the department. Official school pages only show basic course information, but they do not tell students what a professor is actually like day to day. These reviews can help answer questions about grading, workload, exams, attendance, projects, and whether students felt they learned anything useful.
 
 ---
 
