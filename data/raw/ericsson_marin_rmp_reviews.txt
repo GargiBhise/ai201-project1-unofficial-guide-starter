@@ -1,0 +1,172 @@
+Source: Rate My Professors page for Ericsson Marin
+Professor: Ericsson Marin
+Department: Computer Science
+School: Cal Poly Pomona
+Summary:
+Overall Quality: 2.8 / 5
+Based on: 12 student ratings
+Would Take Again: 50%
+Level of Difficulty: 3.3 / 5
+Rating Distribution:
+Awesome: 2
+Great: 3
+Good: 1
+OK: 3
+Awful: 3
+Review 1:
+Course: CS4210
+Date: Apr 16th, 2026
+Quality: 2.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Not provided
+Grade: Not sure yet
+Textbook: N/A
+Online Class: Not provided
+Tags: Group projects; Caring; Lecture heavy
+Review Text: Professor Marin is described as okay, but definitely not an easy A. The lectures are dry and mostly involve reading slides, and attendance is graded. However, he is flexible with deadlines and checks in on students' progress on homework and projects. Students can drop one exam and one homework assignment. The reviewer says he does not grade until the end of the semester. The reviewer considers him a solid backup choice but would look for better options first.
+Review 2:
+Course: CS4440
+Date: Jan 20th, 2026
+Quality: 4.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: N/A
+Online Class: Not provided
+Tags: Tough grader; Participation matters; Test heavy
+Review Text: Professor Marin is described as a good, level-headed professor. His tests matter a lot, but he allowed students to drop their worst grade from both the homework and exam categories. His grading criteria are clear, but his tests are difficult. The reviewer strongly recommends going to class because the material becomes too hard otherwise. The class has a lot of math and a lot of work, but the reviewer says effort will pay off.
+Review 3:
+Course: CS4250
+Date: May 20th, 2024
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Group projects; Caring; Respected
+Review Text: Professor Marin is knowledgeable and does research related to the course. The reviewer found the topics around databases and information retrieval very interesting, although they wished the class covered more instead of reviewing or repeating certain topics. He takes a long time to grade, but the reviewer says he is one of the best professors they have had and would recommend him.
+Review 4:
+Course: CS3560
+Date: Mar 3rd, 2024
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Not provided
+Grade: Rather not say
+Textbook: Yes
+Online Class: Not provided
+Tags: Tough grader; Participation matters; Lecture heavy
+Review Text: The reviewer says Professor Marin makes the subject unnecessarily complicated. They describe his examples as poor and say the lectures are brutal and confusing. The reviewer notes that he is a nice person but criticizes his teaching style.
+Review 5:
+Course: CS5800
+Date: Mar 1st, 2024
+Quality: 1.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Not provided
+Grade: Not provided
+Textbook: Not provided
+Online Class: Not provided
+Tags: Not provided
+Review Text: The reviewer says Professor Marin can make even simple material feel very difficult. They describe the course as having many numbers and slides with unexplained random numbers, making it hard to understand how answers are reached.
+Review 6:
+Course: CS3560
+Date: Dec 23rd, 2023
+Quality: 2.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Not provided
+Grade: Not sure yet
+Textbook: N/A
+Online Class: Not provided
+Tags: Group projects
+Review Text: The reviewer says nothing was graded until after the semester ended. They went to Professor Marin's office nine times for help and say he was not there seven of those times. The reviewer says he sometimes schedules other meetings during office hours, which they believe should not be allowed. They also say he explains things poorly in lectures and uses imprecise language.
+Review 7:
+Course: CS3560
+Date: May 3rd, 2023
+Quality: 3.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: N/A
+Online Class: Not provided
+Tags: Group projects; Lecture heavy
+Review Text: The reviewer says the class is not too bad, but somewhat boring. The major issue is that Professor Marin can take a long time to grade, leaving assignments and exams ungraded for weeks or months. This makes it hard for students to know how they are doing. However, the reviewer says his grading is lenient because he drops the lowest exam or assignment. Overall, they describe him as okay.
+Review 8:
+Course: CS1400
+Date: Jul 6th, 2022
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Online Class: Not provided
+Tags: Extra credit; Caring
+Review Text: The reviewer recommends Professor Marin for freshmen looking for a CS1400 course. They say his grading policy is very nice for students and that the final average grade in their class was 89.4%. Students can ask him questions about homework during office hours.
+Review 9:
+Course: CS5800
+Date: Oct 15th, 2021
+Quality: 2.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Grade: Not provided
+Textbook: Yes
+Online Class: Yes
+Tags: Skip class? You won't pass.; Test heavy; Group projects
+Review Text: The reviewer says students have to deal with Professor Marin's delays. They say he blamed the pandemic for being late with grades and course materials. The reviewer says he repeatedly created schedules he could not follow, even after extending every lecture by 15 minutes. This made the class chaotic later in the semester.
+Review 10:
+Course: CS5800
+Date: Jan 6th, 2021
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Grade: A-
+Textbook: Yes
+Online Class: Yes
+Tags: Lots of homework; Group projects; Tough grader
+Review Text: The reviewer says taking Zoom classes with Professor Marin was an unforgettable negative experience. They say he had poor time structure, often ended class late, and sometimes went 15 to 52 minutes over time. He added extra recorded classes and assigned much more work than comparable graduate CS courses.
+Review 11:
+Course: CS1400
+Date: Dec 13th, 2020
+Quality: 4.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: No
+Online Class: Not provided
+Tags: Respected; Accessible outside class; Participation matters
+Review Text: The reviewer says Professor Marin is a pretty good professor and was very helpful in resolving scheduling issues. Tests were fair. The reviewer warns students not to fall behind on assignments because Gradescope does not allow late work.
+Review 12:
+Course: CS1400
+Date: Dec 7th, 2020
+Quality: 4.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: No
+Online Class: Not provided
+Tags: Gives good feedback; Lots of homework; Graded by few things
+Review Text: The reviewer says the class was not too difficult, though it may be harder for students with no programming experience. For most students, it was rather easy. Professor Marin drops the lowest lab, assignment, and exam grade, so the reviewer did not need to take the final. Assignments and labs are usually weekly but not too difficult, and he helps students during office hours. The reviewer describes him as a chill person.
+

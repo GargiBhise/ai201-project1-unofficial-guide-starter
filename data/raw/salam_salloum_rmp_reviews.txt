@@ -1,0 +1,354 @@
+Source: Rate My Professors page for Salam Salloum
+Professor: Salam Salloum
+Department: Computer Science
+School: Cal Poly Pomona
+Summary:
+Overall Quality: 2.5 / 5
+Based on: 26 student ratings
+Would Take Again: 37%
+Level of Difficulty: 3.1 / 5
+Rating Distribution:
+Awesome: 5
+Great: 2
+Good: 5
+OK: 5
+Awful: 9
+Review 1:
+Course: CS3310
+Date: Apr 19th, 2026
+Quality: 1.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: A-
+Textbook: N/A
+Online Class: Not provided
+Tags: Not provided
+Review Text: The reviewer says Professor Salloum is a nice person, but it seems like he has no passion for teaching anymore. Lectures are described as incredibly boring and slow. The reviewer says the homework and tests are poorly structured, messy, and confusing, and that students have to teach themselves all the time.
+Review 2:
+Course: CS4350
+Date: Jan 21st, 2026
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Yes
+Tags: Lots of homework; Accessible outside class
+Review Text: The reviewer took Professor Salloum for Database Systems and thought it was a fun and interesting class. There were a couple of homework and lab assignments that were long, but he provided many examples to help students complete them. The exams were very similar to the homework and lab assignments. The reviewer says he was kind, accessible, and willing to help.
+Review 3:
+Course: CS3650
+Date: Dec 19th, 2025
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Lots of homework; Respected; Test heavy
+Review Text: The reviewer says they sometimes had to teach themselves difficult concepts, but still respected Dr. Salloum. They describe him as kind and willing to answer students' questions. Exams are similar to the homework, and he goes over practice exams to help students prepare. The reviewer says students need to put in effort to get the best results.
+Review 4:
+Course: CS3310
+Date: Nov 12th, 2025
+Quality: 1.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: B-
+Textbook: N/A
+Online Class: Not provided
+Tags: Lots of homework; Lecture heavy
+Review Text: The reviewer says Professor Salloum brought up a negative review during an exam and complained about it.
+Review 5:
+Course: CS3310
+Date: Sep 20th, 2025
+Quality: 1.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: C-
+Textbook: N/A
+Online Class: Not provided
+Tags: Accessible outside class
+Review Text: The reviewer says Professor Salloum will answer questions, but they do not think it is helpful to ask. The reviewer says he understands the topic but is unable to teach it effectively. Slides are often irrelevant to the homework, but copied code usually receives completion credit.
+Review 6:
+Course: CS3650
+Date: Feb 21st, 2024
+Quality: 4.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Extra credit; Lots of homework; Accessible outside class
+Review Text: The reviewer enjoyed taking Professor Salloum for both Architecture and Database Systems. They say he is not for everyone because his lectures move very slowly, but he provides many examples to learn from. They also describe him as caring and willing to provide extensions and exceptions to grading rules when needed.
+Review 7:
+Course: CS4350
+Date: Feb 5th, 2024
+Quality: 2.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Tough grader; Lecture heavy
+Review Text: The reviewer says the class is passable but difficult. Homework, quizzes, and tests become much harder as the semester goes on, and the professor may increase quiz difficulty if the class is doing too well. Everything is open-note and open-internet, but the reviewer says that does not always help.
+Review 8:
+Course: CS3310
+Date: Dec 19th, 2023
+Quality: 2.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: Not sure yet
+Textbook: N/A
+Online Class: Not provided
+Tags: Extra credit
+Review Text: The reviewer says Professor Salloum is caring and somewhat funny, but does not really teach anymore. He often asks if students have questions, but the reviewer says he is poor at explaining things. He sometimes explains examples without drawing them and then gets lost in his own examples. The reviewer says the content is standard and the material is overall good, but needs modernization.
+Review 9:
+Course: CS3650
+Date: Apr 19th, 2023
+Quality: 3.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: N/A
+Online Class: Not provided
+Tags: Clear grading criteria; Gives good feedback; Lots of homework
+Review Text: The reviewer says Professor Salloum's class is overall decent. Lectures can be slow, and he sometimes rambles about CS topics not related to the lecture material. Homework is similar to problems on the lecture slides, and tests and quizzes are very similar to the homework.
+Review 10:
+Course: CS3650
+Date: Jun 4th, 2022
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Yes
+Tags: Extra credit; Lots of homework; Caring
+Review Text: The reviewer describes Professor Salloum as caring and knowledgeable. He assigns a lot of homework but also gives a lot of extra credit. The reviewer says he cares more about students learning the content than anything else and often gives extensions when multiple people ask.
+Review 11:
+Course: CS4350
+Date: May 22nd, 2022
+Quality: 3.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Lots of homework; Caring
+Review Text: The reviewer says Professor Salloum is caring, gives extensions, and is generally passive, but his teaching ability has weaknesses. He knows the material, but how well students learn depends on whether they are willing to do extra work and teach themselves alongside the lessons.
+Review 12:
+Course: CS3560
+Date: Oct 12th, 2021
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Online Class: Yes
+Tags: Respected; Accessible outside class; Caring
+Review Text: The reviewer says Professor Salloum is one of the kindest professors they have taken. He is empathetic, caring, offers extensions, adjusts office hours to fit students' schedules, takes criticism well, and appreciates learning from students. The reviewer says the class is not too bad if students stay on top of the work and ask questions.
+Review 13:
+Course: CS3560
+Date: Aug 21st, 2021
+Quality: 1.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: B+
+Textbook: No
+Online Class: Yes
+Tags: Tough grader
+Review Text: The reviewer says the class is very unorganized, and talking to the professor creates more questions. Rubrics are unclear, and he adds requirements to projects and assignments during lectures. The reviewer says he tries to help but can come across as rude and entitled. They recommend avoiding him if possible.
+Review 14:
+Course: CS3310
+Date: Jun 5th, 2021
+Quality: 3.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not provided
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Online Class: Not provided
+Tags: Accessible outside class; Clear grading criteria; Extra credit
+Review Text: The reviewer says Professor Salloum focuses on PowerPoints instead of the textbook, which can make the course feel random. The course is concept-based and not hard to understand, but it becomes dry quickly. The reviewer recommends applying concepts independently for practice. He provides plenty of review time, tests are usually based on homework, and students should do the extra credit.
+Review 15:
+Course: CS3310
+Date: Apr 28th, 2021
+Quality: 1.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Not provided
+Would Take Again: No
+Grade: B
+Textbook: No
+Online Class: Yes
+Tags: Graded by few things
+Review Text: The reviewer says the lectures are boring and difficult to understand. Professor Salloum sometimes appears to continue lectures from wherever he wants and may contradict himself. The reviewer says he explains poorly, and the tests and projects are tricky. However, he allows students to redo projects multiple times for full points and is a lenient grader.
+Review 16:
+Course: CS4350
+Date: Dec 15th, 2020
+Quality: 3.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Grade: B
+Textbook: No
+Online Class: Not provided
+Tags: Graded by few things
+Review Text: The reviewer says Professor Salloum is not as bad as people say, but not great. Students dislike him because he makes many mistakes. The reviewer says students only learn a little and should learn databases and SQL on their own. However, he is a lenient grader, and the assignments and tests are not too hard. The midterms focused on SQL statements, and the final covered database normalization, SQL statements, and ER diagrams.
+Review 17:
+Course: CS3650
+Date: Dec 8th, 2020
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Grade: C
+Textbook: No
+Online Class: Yes
+Tags: Test heavy; Tough grader
+Review Text: The reviewer describes Professor Salloum as one of the worst CS professors. They say his online tests are very difficult and impossible to finish in the allotted time. They also say he is hard to follow and does not explain things well. The reviewer says their class used online videos to teach themselves the concepts instead.
+Review 18:
+Course: CS3650
+Date: Dec 3rd, 2020
+Quality: 2.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Grade: Not sure yet
+Textbook: No
+Online Class: Yes
+Tags: Not provided
+Review Text: The reviewer says the class is average at best. Professor Salloum does not like recording or posting lectures, so students have to attend. If students focus on homework assignments and put in a mild amount of effort, they should be okay. Lectures can be boring. The reviewer recommends reviewing MIPS before taking the class.
+Review 19:
+Course: CS3650
+Date: May 14th, 2020
+Quality: 3.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Grade: Not provided
+Textbook: No
+Online Class: Not provided
+Tags: Accessible outside class; Tough grader
+Review Text: The reviewer says they would avoid Professor Salloum if possible, but he is not one of the worst professors they have had. The class is not too much work, but the reviewer felt the student grader took off points unfairly. Grades may be fixed if students complain and ask the professor to check them. The reviewer says he is a nice person, but lectures can be boring.
+Review 20:
+Course: CS580
+Date: Mar 20th, 2018
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Grade: B
+Textbook: Yes
+Online Class: Not provided
+Tags: Tough grader; Hilarious; Test heavy
+Review Text: The reviewer says they made a mistake taking Professor Salloum twice. They describe his knowledge as outdated and criticize his grading. The reviewer says the class is boring and recommends not taking him.
+Review 21:
+Course: CS580
+Date: Feb 13th, 2018
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Grade: A-
+Textbook: No
+Online Class: Not provided
+Tags: So many papers; Group projects
+Review Text: The reviewer strongly recommends avoiding Professor Salloum. They say lectures involve quickly scrolling through PowerPoint slides without teaching. Quizzes are a major part of the grade. For the project, the reviewer says he cared more about diagrams and documentation than the program itself, expected a very large binder, and did not teach programming.
+Review 22:
+Course: CS210
+Date: Feb 6th, 2017
+Quality: 2.0
+Difficulty: 2.0
+For Credit: Not provided
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Online Class: Not provided
+Tags: Hilarious; Graded by few things
+Review Text: The reviewer says the class is easy and has many grade improvement opportunities. They say graders often make mistakes and the final is difficult. The reviewer says students will not learn much.
+Review 23:
+Course: 241
+Date: Apr 29th, 2015
+Quality: 4.5
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: A+
+Textbook: No
+Online Class: Not provided
+Tags: Not provided
+Review Text: The reviewer says this may be the only class and professor from which they learned material that later helped them get a job. They say students need to know data structures to get a job after college and that Professor Salloum teaches that material.
+Review 24:
+Course: CS210
+Date: Mar 25th, 2014
+Quality: 1.5
+Difficulty: 3.0
+For Credit: Not provided
+Attendance: Not provided
+Would Take Again: Not provided
+Grade: Not provided
+Textbook: No
+Online Class: Not provided
+Tags: Not provided
+Review Text: The reviewer says Professor Salloum can be difficult to understand because of his accent and lack of explanation. Homework and projects lack clear requirements, but grading is not strict. Notes are allowed on quizzes and tests. The reviewer says he would not be their first choice but would not mind taking him again.
+Review 25:
+Course: CS435
+Date: May 3rd, 2012
+Quality: 3.5
+Difficulty: 3.0
+For Credit: Not provided
+Attendance: Not provided
+Would Take Again: Not provided
+Grade: Not provided
+Textbook: No
+Online Class: Not provided
+Tags: Not provided
+Review Text: The reviewer says Professor Salloum is overall not bad. His teaching method is somewhat boring, but students do learn the material. The reviewer would prefer more clarification through illustrations. Tests were not easy.
+Review 26:
+Course: CS210
+Date: Nov 5th, 2011
+Quality: 1.0
+Difficulty: 1.0
+For Credit: Not provided
+Attendance: Not provided
+Would Take Again: Not provided
+Grade: Not provided
+Textbook: No
+Online Class: Not provided
+Tags: Not provided
+Review Text: The reviewer says the class is incredibly easy, with open-book and open-note tests. However, they describe Professor Salloum as very boring and say he assigns labs using an obsolete program without explaining how to use it.
+

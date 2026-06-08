@@ -1,0 +1,465 @@
+Source: Rate My Professors page for Xuesong Zhang
+Professor: Xuesong Zhang
+Department: Computer Science
+School: Cal Poly Pomona
+Summary:
+Overall Quality: 4.4 / 5
+Based on: 35 student ratings
+Would Take Again: 83%
+Level of Difficulty: 2.1 / 5
+Rating Distribution:
+Awesome: 27
+Great: 2
+Good: 3
+OK: 2
+Awful: 2
+Review 1:
+Course: CIS1010
+Date: May 6th, 2026
+Quality: 5.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Online Class: Yes
+Tags: Inspirational; Caring; Respected
+Review Text: The reviewer says Professor Zhang only required students to show up in person once on the first day. After that, the class met on Zoom for six weeks and had weekly activities, followed by time-consuming MindTap learning. The reviewer says she was helpful and communicative and highly recommends her.
+Review 2:
+Course: CIS3650
+Date: May 3rd, 2026
+Quality: 5.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Online Class: Yes
+Tags: Gives good feedback; Graded by few things; Accessible outside class
+Review Text: The reviewer says the course is based on Google Analytics. There is a group final project with an essay due at the end of the semester. The class was not hard, though somewhat boring. The reviewer found it interesting to use real-life data from Google's Merchandise Store. There was no midterm or final, and the reviewer says it is an easy class anyone can take.
+Review 3:
+Course: CIS1010
+Date: Dec 10th, 2025
+Quality: 5.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: Yes
+Online Class: Yes
+Tags: Accessible outside class
+Review Text: The reviewer took Professor Zhang for Intro to Computing and describes it as the easiest class ever. It was pass/fail, and she was very nice and relaxed.
+Review 4:
+Course: CIS1010
+Date: Jul 20th, 2025
+Quality: 5.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: N/A
+Online Class: Yes
+Tags: Respected; Accessible outside class; Online Savvy
+Review Text: The reviewer says Professor Zhang was very nice. The course had three assignments a week for half the semester, but students could finish them within a couple of days. There were three or four online meetings, and students only needed to pay some attention to do well. The reviewer says it was a very easy class.
+Review 5:
+Course: CIS3650
+Date: Jun 30th, 2025
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Yes
+Tags: Amazing lectures; Caring; Online Savvy
+Review Text: The reviewer took the class during a five-week summer session. The learning materials were well organized, lecture videos were helpful for quizzes, hands-on exercises were interesting, and the workload was manageable. The reviewer says they learned a lot about Google Analytics and describes Professor Zhang as knowledgeable and caring.
+Review 6:
+Course: CIS1010
+Date: Mar 14th, 2025
+Quality: 5.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Rather not say
+Textbook: N/A
+Online Class: Yes
+Tags: Extra credit; Clear grading criteria; Caring
+Review Text: The reviewer says they met only once during the semester, but Professor Zhang would make sure to reach out if students needed help. The reviewer also had a helpful TA available during office hours. Tasks were easy as long as students practiced the assignment concepts.
+Review 7:
+Course: CIS1010
+Date: Dec 28th, 2024
+Quality: 5.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Online Class: Yes
+Tags: Participation matters; Lots of homework; Online Savvy
+Review Text: The reviewer says the class was fully online. Assignments were tedious but manageable, and Professor Zhang was easy to reach. The course was generally easy and difficult to fail. Work was due by the end of each week, and the reviewer often finished early. After the cybersecurity course section, the class was completed two months before the end of the term.
+Review 8:
+Course: CIS1010
+Date: Dec 15th, 2024
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Audit/No Grade
+Textbook: N/A
+Online Class: Not provided
+Tags: Gives good feedback; Lots of homework; Online Savvy
+Review Text: The class is fully asynchronous, so students complete projects on their own time. There are three assignments per week, which are easy but time-consuming. The reviewer says Professor Zhang responds quickly and often offers extensions. The course is credit/no credit and easy to follow.
+Review 9:
+Course: CIS3650
+Date: Dec 1st, 2024
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Yes
+Tags: Group projects; Online Savvy
+Review Text: The reviewer took the class asynchronously. Homework involved following steps to earn the Google Analytics Certificate. The quizzes were the hardest part because not everything was online. The reviewer says the course did not assign anything other than the project during the last two months, which they liked.
+Review 10:
+Course: GBA6050
+Date: Aug 13th, 2024
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Group projects; Gives good feedback; Caring
+Review Text: The reviewer describes Professor Zhang as wonderful, caring, kind, and highly knowledgeable.
+Review 11:
+Course: CIS1010
+Date: May 23rd, 2024
+Quality: 5.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Online Class: Yes
+Tags: Clear grading criteria; Gives good feedback; Caring
+Review Text: The reviewer says the class is organized and self-paced. Each week, students complete training, an exam, and a project. There is also a cybersecurity module with easy exercises and quizzes. Professor Zhang is helpful and caring, offers academic and career advice, and has experience as the CIS1010 course coordinator.
+Review 12:
+Course: CIS3650
+Date: May 21st, 2024
+Quality: 4.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Tough grader
+Review Text: The reviewer says the class was somewhat tricky, but Professor Zhang was always ready to help. The quizzes were the most difficult part, but students could make up for that through the group project and paper at the end. Overall, the reviewer describes it as an average class.
+Review 13:
+Course: CIS1010
+Date: May 9th, 2024
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: Yes
+Online Class: Yes
+Tags: Clear grading criteria; Gives good feedback; Online Savvy
+Review Text: The reviewer says this was a very easy class taken fully online. Assignments were formulaic and easy to finish. The reviewer notes that things may be different for students using a Mac and recommends taking notes to help with assignments.
+Review 14:
+Course: CIS1010
+Date: Apr 22nd, 2024
+Quality: 5.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Online Class: Yes
+Tags: Caring; Respected; Online Savvy
+Review Text: The reviewer says the class was very easy. Each week included three easy but time-consuming assignments. Mac users may have some trouble because the simulator is Windows-based. Students only had to meet once during the semester. The reviewer says Professor Zhang is nice and wants feedback.
+Review 15:
+Course: CIS1010
+Date: Dec 23rd, 2023
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Online Class: Yes
+Tags: Clear grading criteria; Accessible outside class
+Review Text: The reviewer says the credit/no-credit class was very easy. They recommend staying on top of weekly assignments and attending required online and in-person check-ins, since missing them could result in no credit. The class uses a program to simulate Excel and Word assignments.
+Review 16:
+Course: GBA6050
+Date: Dec 9th, 2023
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Online Class: Not provided
+Tags: Group projects; Inspirational; Caring
+Review Text: The reviewer says Cengage MindTap homework is manageable because many answers are available online. Weekly discussions and two group projects, involving Tableau and machine learning, make the class practical and interesting. Professor Zhang's lecture and demo videos help students understand concepts and complete projects. The reviewer describes her as knowledgeable, kind, and caring.
+Review 17:
+Course: GBA6050
+Date: Dec 8th, 2023
+Quality: 5.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Online Class: Not provided
+Tags: Group projects; Lots of homework; Caring
+Review Text: The reviewer describes Professor Zhang as caring and approachable and says her class supports a learn-at-your-own-pace environment. Students with strong self-discipline may appreciate this teaching style. The reviewer says time-consuming homework and group-dependent work may be challenging for students who prefer individual work.
+Review 18:
+Course: CIS1010
+Date: Aug 30th, 2023
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: Drop/Withdrawal
+Textbook: N/A
+Online Class: Not provided
+Tags: Not provided
+Review Text: The reviewer criticizes the class as solely online coursework and says it did not feel like Professor Zhang did much instruction. They also criticize the online program as difficult to use and say some video instructions did not match the tasks.
+Review 19:
+Course: CIS3650
+Date: Aug 28th, 2023
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A-
+Textbook: N/A
+Online Class: Yes
+Tags: Not provided
+Review Text: The reviewer says Professor Zhang posts readings and video lectures on Canvas, gives clear assignment instructions, and organizes the course into modules. Some quizzes were tricky but did not count much toward the final grade. The reviewer says she knows the material and cares about students.
+Review 20:
+Course: CIS3650
+Date: Jul 11th, 2022
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Yes
+Tags: Group projects; Clear grading criteria; Lots of homework
+Review Text: The reviewer took the course online in the summer with no meetings. The workload was manageable. Professor Zhang provided clear instructions on every assignment, though assignments were time-consuming. The reviewer says they learned a lot about Google Analytics and that recorded lectures helped with quizzes.
+Review 21:
+Course: GBA6050
+Date: Feb 11th, 2022
+Quality: 5.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Online Class: Yes
+Tags: Gives good feedback; Group projects; Clear grading criteria
+Review Text: The course was mostly asynchronous, with Cengage MindTap, recorded lecture videos, demonstration videos made by Professor Zhang, and two group projects involving Tableau and data mining. The reviewer found the videos and Canvas announcements extremely helpful for assignments and projects. The first class meeting and project presentations were mandatory. The reviewer describes Professor Zhang as nice and knowledgeable.
+Review 22:
+Course: CIS1010
+Date: Dec 15th, 2021
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: A+
+Textbook: No
+Online Class: Not provided
+Tags: Not provided
+Review Text: The reviewer says CIS1010 was asynchronous and they were surprised to learn that on the first day. They did not see Professor Zhang after that. The class included four projects, homework training, and four exams. The reviewer warns students not to leave the work until the last minute because assignments are long and recommends using YouTube for help on projects.
+Review 23:
+Course: CIS3650
+Date: Dec 8th, 2021
+Quality: 2.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Textbook: No
+Online Class: Yes
+Tags: Lots of homework; Beware of pop quizzes
+Review Text: The reviewer says Professor Zhang is a good professor if students want Google to teach them. Aside from three Zoom sessions, students mostly work on their own. The reviewer says it is hard to justify paying for the class when much of the learning comes from free Google Analytics courses. Assignments include weekly activities, quizzes, and one group project. The reviewer says she is nice but not the best teacher.
+Review 24:
+Course: GBA6050
+Date: Aug 22nd, 2021
+Quality: 3.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A-
+Textbook: No
+Online Class: Not provided
+Tags: Gives good feedback; Clear grading criteria; Extra credit
+Review Text: The reviewer says the class is like a statistics class with more advanced tools. It is fun to analyze data using current industry tools, but it is mostly self-study, with only four meetings during the semester.
+Review 25:
+Course: GBA6050
+Date: May 31st, 2021
+Quality: 3.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Textbook: Yes
+Online Class: Not provided
+Tags: Lots of homework
+Review Text: The reviewer says the class is fully online and only meets twice per semester for group project presentations. They say students will not learn very much and describe it as a statistics class with fancy software.
+Review 26:
+Course: CIS3650
+Date: May 24th, 2021
+Quality: 2.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Textbook: No
+Online Class: Not provided
+Tags: Graded by few things; Test heavy; Tough grader
+Review Text: The reviewer says the class was okay because 60% of the grade came from Google Academy courses. However, they found the quizzes very difficult, worth 20% of the grade, and based on videos by Professor Zhang. The reviewer says quiz questions were tricky, timed at one minute per question, gave little feedback unless students asked, and included many mistakes.
+Review 27:
+Course: GBA6050
+Date: Mar 2nd, 2021
+Quality: 1.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Grade: A
+Textbook: Yes
+Online Class: Yes
+Tags: Lots of homework
+Review Text: The reviewer strongly warns against taking the class, saying it was not worth the money. They say there were no lectures, only Cengage self-learning and recorded lectures not made by Professor Zhang. The reviewer says the class was poor and that they could have learned better from YouTube.
+Review 28:
+Course: CIS3150
+Date: Jan 13th, 2021
+Quality: 5.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B
+Textbook: Yes
+Online Class: Yes
+Tags: Gives good feedback; Participation matters; Group projects
+Review Text: The reviewer says students read a chapter and then make a diagram with a group on Zoom in the next class. Professor Zhang gives excellent feedback and mostly cares about participation. Each week includes a ten-question quiz from the chapter. The class ends with a group project involving more diagrams. The reviewer says the class is mainly reading and diagrams with no homework.
+Review 29:
+Course: CIS1010
+Date: Dec 7th, 2020
+Quality: 4.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Online Class: Yes
+Tags: Not provided
+Review Text: The class has four projects involving Word, PowerPoint, and Excel. The Excel projects were somewhat challenging, but students only needed a 70%. Exams were easy because the trainings were similar to the exams. The course is credit-only and easy to get credit for.
+Review 30:
+Course: CIS1010
+Date: Dec 3rd, 2020
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: No
+Online Class: Yes
+Tags: Graded by few things; Group projects; Clear grading criteria
+Review Text: The reviewer says they were unsure how Professor Zhang is as a teacher because the class was completely online and students did everything themselves. The class was relatively easy except for the final Excel project. There were four projects and five exams, and students needed at least 70% on each. Projects allowed four submission attempts.
+Review 31:
+Course: CIS3650
+Date: May 28th, 2020
+Quality: 3.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: A
+Textbook: No
+Online Class: Not provided
+Tags: Group projects
+Review Text: The reviewer says Professor Zhang was not the worst but not the best. They thought the transition to online during COVID was handled well. The midterm was not hard but was too short, and it required a large curve. The group project was not hard but required time and effort. The reviewer felt she was passive-aggressive toward them but still thought she was a good person overall.
+Review 32:
+Course: CIS1010
+Date: May 1st, 2020
+Quality: 5.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Not provided
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Online Class: Not provided
+Tags: Accessible outside class; Clear grading criteria; Caring
+Review Text: The reviewer says the hybrid course is pass/fail with no letter grade and uses an online textbook. Students learn Word, PowerPoint, Excel, Access, and cybersecurity. There is an in-class exam for each topic every other week, requiring only 70% to pass, plus a project for each topic except cybersecurity. The reviewer says the course is relatively easy, except for the second Excel project.
+Review 33:
+Course: CIS101
+Date: Mar 15th, 2018
+Quality: 5.0
+Difficulty: Not provided
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Textbook: No
+Online Class: Not provided
+Tags: Not provided
+Review Text: The reviewer says Professor Zhang is very nice and CIS101 is easy. The class barely felt like a class. Students only show up every other week to take an online test. The class consists of five tests and four projects covering Word, PowerPoint, Excel, and similar topics. Projects can be tricky for students unfamiliar with the programs, but they get three attempts to pass.
+Review 34:
+Course: CIS101
+Date: Mar 7th, 2018
+Quality: 5.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Textbook: No
+Online Class: Not provided
+Tags: Respected
+Review Text: The reviewer says the class only meets once every other week for an exam and that the exams are extremely easy.
+Review 35:
+Course: CIS101
+Date: Feb 13th, 2014
+Quality: 4.5
+Difficulty: 1.0
+For Credit: Not provided
+Attendance: Not provided
+Would Take Again: Not provided
+Textbook: No
+Online Class: Not provided
+Tags: Not provided
+Review Text: The reviewer says Xuesong Zhang is a great teacher and a must-take for CIS101. They describe the class as chill and very easy. Most work is online, so attendance is not always mandatory. The reviewer says Zhang is one of the best teachers they have had.
+

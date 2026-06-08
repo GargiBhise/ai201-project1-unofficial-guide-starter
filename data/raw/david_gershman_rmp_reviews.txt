@@ -1,0 +1,469 @@
+Source: Rate My Professors page for David Gershman
+Professor: David Gershman
+Department: Computer Science
+School: Cal Poly Pomona
+Summary:
+Overall Quality: 1.7 / 5
+Based on: 35 student ratings
+Would Take Again: 17%
+Level of Difficulty: 4.4 / 5
+Rating Distribution:
+Awesome: 3
+Great: 1
+Good: 2
+OK: 7
+Awful: 23
+Review 1:
+Course: CS2600
+Date: Apr 29th, 2026
+Quality: 1.0
+Difficulty: 4.0
+For Credit: Not provided
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: Not provided
+Textbook: Not provided
+Online Class: Not provided
+Tags: Not provided
+Review Text: The reviewer says Professor Gershman gives the impression that he does not really want to teach. He has mentioned that teaching is a side job, and the reviewer says that shows. The reviewer says he does the bare minimum, does not seem to care how students do, talks fast, and is hard to understand. They do not recommend taking his class.
+Review 2:
+Course: CS2600
+Date: Apr 7th, 2026
+Quality: 5.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: N/A
+Online Class: Not provided
+Tags: Amazing lectures; Graded by few things; Accessible outside class
+Review Text: The reviewer says Professor Gershman teaches online and teaches well. The main downside is that the grade is based on very few things: three quizzes, two midterms, and a final. The reviewer says he is approachable during office hours and lenient about giving points back. There is no homework, so students need to practice a lot using the school’s Unix system. The reviewer says the class was fun and that they learned a lot.
+Review 3:
+Course: CS2600
+Date: Dec 19th, 2025
+Quality: 2.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: B
+Textbook: N/A
+Online Class: Yes
+Tags: Tough grader; Test heavy; Graded by few things
+Review Text: The reviewer says the class is very test-heavy and that Professor Gershman uses trick questions, so students should read carefully. The grade includes three quizzes, two midterms, and a final exam. He offered extra credit near the end of the semester and a makeup quiz. The reviewer warns students not to rely on asking questions during class because class was often canceled.
+Review 4:
+Course: CS2600
+Date: May 23rd, 2025
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: B-
+Textbook: N/A
+Online Class: Not provided
+Tags: Test heavy; Graded by few things
+Review Text: The reviewer says the negative reviews are not exaggerated. They say Professor Gershman can teach but cannot test. Notes and lectures are somewhat disorganized but useful, while exams are nitpicky, tricky multiple-choice questions that do not reflect conceptual understanding. The reviewer says exams are worth nearly the whole grade and that class was canceled many times.
+Review 5:
+Course: CS2600
+Date: Apr 23rd, 2025
+Quality: 1.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: C
+Textbook: N/A
+Online Class: Yes
+Tags: Test heavy
+Review Text: The reviewer calls Professor Gershman the worst professor they have had at the school. They say the entire grade is based on a few tests and quizzes with gimmicky trick questions that do not test knowledge well. The reviewer also says he frequently cancels class and recommends avoiding him.
+Review 6:
+Course: CS2600
+Date: Dec 17th, 2024
+Quality: 4.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A-
+Textbook: N/A
+Online Class: Yes
+Tags: Caring; Test heavy; Accessible outside class
+Review Text: The reviewer says students who want an A need to study a lot, while getting a B is easier. Grades come only from three tests and four quizzes. Some quiz or test questions may not appear in lecture, but the reviewer says students can email him to get points back. Lectures are recorded, but attending Zoom meetings and asking questions helps a lot.
+Review 7:
+Course: CS2600
+Date: Dec 10th, 2024
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: Not sure yet
+Textbook: N/A
+Online Class: Yes
+Tags: Tough grader
+Review Text: The reviewer says Professor Gershman is one of the worst professors at CPP. They say they did not learn much and had to research topics independently. The class has no homework and is test-heavy, with trick questions that can hurt scores. The reviewer says classes were frequently canceled for personal issues and recommends taking someone else.
+Review 8:
+Course: CS2600
+Date: Dec 9th, 2024
+Quality: 5.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: N/A
+Online Class: Yes
+Tags: Caring; Lecture heavy; Test heavy
+Review Text: The reviewer says Professor Gershman is one of the top professors at the school. They say he explains everything very well and does not move too fast. Although grades come only from tests, exams, and quizzes, the reviewer says they are fair and not just memorization. The reviewer encourages students not to be discouraged by the ratings and recommends taking the class.
+Review 9:
+Course: CS2600
+Date: Dec 8th, 2024
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: D
+Textbook: N/A
+Online Class: Yes
+Tags: Test heavy; Graded by few things
+Review Text: The reviewer says the entire grade comes from quizzes, two exams, and the final. They complain that answers must match the way Professor Gershman taught the material, even if students already know Unix and C. The reviewer criticizes the reliance on multiple-choice and fill-in-the-blank questions for a coding-related course.
+Review 10:
+Course: CS2600
+Date: Dec 7th, 2024
+Quality: 2.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: B-
+Textbook: N/A
+Online Class: Yes
+Tags: Tough grader; Test heavy; Online Savvy
+Review Text: The reviewer says lectures are interesting and Professor Gershman is generally engaging, but the class structure makes it difficult to earn an A. There is no homework, so students are not encouraged to practice unless they teach themselves. Lectures are recorded and good notes are provided, but multiple-choice tests determine the whole grade.
+Review 11:
+Course: CS2600
+Date: Oct 23rd, 2024
+Quality: 1.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: B-
+Textbook: N/A
+Online Class: Yes
+Tags: Get ready to read; Amazing lectures; Test heavy
+Review Text: The reviewer says Professor Gershman’s personal health problems caused several classes to be canceled. They also say he refuses to use Canvas for notes. The course is graded only through tests with trick questions. The reviewer says students who already know the material must still know it the way he teaches it, and lecture notes do not fully cover what appears on tests.
+Review 12:
+Course: CS2600
+Date: Aug 26th, 2024
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Not provided
+Grade: B
+Textbook: N/A
+Online Class: Not provided
+Tags: Tough grader; Graded by few things
+Review Text: The reviewer warns students not to take Professor Gershman just because the class is online. They say he teaches as if students already know systems programming. The lack of homework may sound good, but it gives students no practice, and they may leave the class without knowing how to use command lines. The reviewer says tests have trick questions.
+Review 13:
+Course: CS2600
+Date: Aug 22nd, 2024
+Quality: 2.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: B
+Textbook: N/A
+Online Class: Yes
+Tags: Lecture heavy; Test heavy; Graded by few things
+Review Text: The reviewer says grades depend on quizzes, exams, a midterm, and a final. Homework is optional and receives no credit. Nothing besides tests helps the grade. Lecture notes are long and not typical slides. The reviewer says one positive is that some questions are reused on exams.
+Review 14:
+Course: CS3800
+Date: May 14th, 2024
+Quality: 3.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: B
+Textbook: N/A
+Online Class: Not provided
+Tags: Get ready to read; Test heavy
+Review Text: The reviewer took Professor Gershman for CS2600 in 2021 and CS3800 later. They say his class is very test-heavy and based mostly on quizzes and exams. The reviewer says he is not a bad professor, but it can be hard to pay attention because his classes are online. They say he responds if students email him questions.
+Review 15:
+Course: CS2600
+Date: Dec 21st, 2023
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: Rather not say
+Textbook: N/A
+Online Class: Not provided
+Tags: Lecture heavy; Test heavy
+Review Text: The reviewer says the reviews are true. Grades are based only on quizzes, midterms, and the final, with no curve. The reviewer says exam questions are tricky and sometimes multiple answers seem possible. They say earning an A is almost impossible unless students truly understand the topics, and most students aim for a C or B.
+Review 16:
+Course: CS2600
+Date: Oct 5th, 2023
+Quality: 1.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: Not sure yet
+Textbook: N/A
+Online Class: Not provided
+Tags: Lecture heavy; Test heavy
+Review Text: The reviewer says 100% of the grade is based on tests. They believe Professor Gershman makes teaching easier for himself while making learning harder for students. Tests are online, have limited time, and do not allow students to go back to previous questions. The reviewer recommends avoiding him.
+Review 17:
+Course: CS2600
+Date: Aug 31st, 2023
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Not provided
+Textbook: N/A
+Online Class: Yes
+Tags: Tough grader; Graded by few things
+Review Text: The reviewer says grades come only from quizzes, two exams, and a final. There is no extra credit, exams are strictly graded with no partial credit, lectures are weak, there is little insight into exam material, and there are no curves or make-up exams. The reviewer says students should be ready to self-teach.
+Review 18:
+Course: CS2600
+Date: May 20th, 2023
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: Rather not say
+Textbook: N/A
+Online Class: Yes
+Tags: Tough grader; Graded by few things
+Review Text: The reviewer describes Professor Gershman as very nitpicky on quizzes and exams. They say he provides notes, but the notes are sometimes incorrect or unrelated to quizzes and exams. There is no homework to cushion grades, only quizzes and exams. The reviewer strongly recommends not taking him.
+Review 19:
+Course: CS2600
+Date: May 13th, 2023
+Quality: 3.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: N/A
+Online Class: Yes
+Tags: Lecture heavy; Test heavy; Online Savvy
+Review Text: The reviewer initially thought the class would be terrible because Professor Gershman gave the impression that he did not want to teach. However, the reviewer says he is caring and willing to help. The class is based only on quizzes and tests, so students should review the material and understand what is happening in class.
+Review 20:
+Course: CS2600
+Date: Mar 12th, 2023
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: B
+Textbook: N/A
+Online Class: Yes
+Tags: Tough grader; Test heavy; Graded by few things
+Review Text: The reviewer says students are graded by only a handful of exams. Professor Gershman has detailed notes, but the reviewer says exams focus on nitpicky details rather than conceptual knowledge. There is no homework, so there is no grade buffer or incentive to practice.
+Review 21:
+Course: CS2600
+Date: May 22nd, 2022
+Quality: 2.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: B+
+Textbook: N/A
+Online Class: Not provided
+Tags: Lecture heavy; Graded by few things
+Review Text: The reviewer says the content is not hard to understand, but Professor Gershman expects students to be very proficient in Unix. There is no homework, so students need to practice independently. The reviewer says tests often try to trick students and recommends reading questions carefully and reviewing C.
+Review 22:
+Course: Not provided
+Date: Mar 2nd, 2021
+Quality: 2.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Grade: B-
+Textbook: No
+Online Class: Yes
+Tags: Tough grader; Caring
+Review Text: The reviewer says Professor Gershman is nice and outgoing and teaches the class well, but misses class often and grades very hard.
+Review 23:
+Course: CS3800
+Date: Mar 1st, 2021
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Grade: Not sure yet
+Textbook: Yes
+Online Class: Not provided
+Tags: Not provided
+Review Text: The reviewer says Professor Gershman is a nice person, but recommends avoiding his Computer Networks class. They expected network programming but felt the class was more like a network administration class. The reviewer says tests were hard, there was no curve, and the class was a GPA killer.
+Review 24:
+Course: CS2600
+Date: Jan 26th, 2021
+Quality: 2.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Not provided
+Would Take Again: No
+Grade: C
+Textbook: No
+Online Class: Yes
+Tags: Gives good feedback; Accessible outside class; Tough grader
+Review Text: The reviewer says homework and projects were fun, and the first few weeks were especially challenging for students new to bash. Professor Gershman responded to emails quickly. However, he did not grade anything until the last two weeks of the semester. Quizzes and tests were difficult with no curve. The reviewer says they learned a lot and found the material interesting.
+Review 25:
+Course: CS2600
+Date: Dec 15th, 2020
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Grade: Drop/Withdrawal
+Textbook: No
+Online Class: Not provided
+Tags: Tough grader
+Review Text: The reviewer says Professor Gershman was the worst professor they had taken. They describe him as unprofessional in lectures and emails and say he made many excuses for not grading assignments. The reviewer says assignments, quizzes, and exams were not graded until the last two weeks of the semester and recommends avoiding him.
+Review 26:
+Course: CS2600
+Date: Dec 9th, 2020
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: Rather not say
+Textbook: No
+Online Class: Not provided
+Tags: Tough grader
+Review Text: The reviewer says that even students who know the material may only get a B, and students trying to learn from the class may learn little and earn a low grade. They criticize the exams for having too many tricky questions.
+Review 27:
+Course: CS4310
+Date: Dec 7th, 2020
+Quality: 2.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Not provided
+Would Take Again: No
+Textbook: No
+Online Class: Not provided
+Tags: Test heavy; Beware of pop quizzes; Tough grader
+Review Text: The reviewer says Professor Gershman spent a lot of time talking about material not relevant to Operating Systems. His lectures included rants about minor details in the book, which made it hard to follow the main subject. The reviewer says one or two weeks of class felt wasted.
+Review 28:
+Course: CS2600
+Date: Dec 3rd, 2020
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: No
+Grade: Not sure yet
+Textbook: No
+Online Class: Yes
+Tags: Not provided
+Review Text: The reviewer says Professor Gershman’s notes are good for learning the subject but not useful for quizzes and exams. They say he does not grade in a timely manner and took at least half the semester to provide grades. The reviewer also says he cannot take criticism about teaching.
+Review 29:
+Course: CS3800
+Date: Dec 2nd, 2020
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: Not sure yet
+Textbook: No
+Online Class: Yes
+Tags: Graded by few things; Test heavy; Tough grader
+Review Text: The reviewer strongly warns students not to take Professor Gershman if they want to pass with a higher grade.
+Review 30:
+Course: CS2600
+Date: Dec 2nd, 2020
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: Incomplete
+Textbook: No
+Online Class: Yes
+Tags: Tough grader
+Review Text: The reviewer says students should expect quizzes and exams on material they may not learn in class and warns that they may fail.
+Review 31:
+Course: CS2600
+Date: Dec 2nd, 2020
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: Not sure yet
+Textbook: No
+Online Class: Yes
+Tags: Graded by few things; Test heavy; Tough grader
+Review Text: The reviewer says Professor Gershman is the worst professor they have met. They say he grades very harshly, students cannot see grades until the end of the semester, and quiz or exam questions do not appear in the notes. The reviewer strongly recommends not taking the class.
+Review 32:
+Course: CS2600
+Date: Oct 28th, 2020
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: Not sure yet
+Textbook: No
+Online Class: Yes
+Tags: Not provided
+Review Text: The reviewer says Professor Gershman teaches as if students already know the material. Quizzes and exams are extremely difficult without previous experience. The reviewer says he cancels class often and students should not expect much from lectures.
+Review 33:
+Course: CS3800
+Date: Oct 28th, 2020
+Quality: 1.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: Not sure yet
+Textbook: No
+Online Class: Yes
+Tags: Not provided
+Review Text: The reviewer says Professor Gershman treats his teaching position like a gatekeeper role into industry and that the difficulty reflects that. They criticize him for canceling class, ending lecture early, making very hard quizzes and exams, and delaying grading past the midterm.
+Review 34:
+Course: CS2600
+Date: Oct 19th, 2020
+Quality: 1.0
+Difficulty: 4.0
+For Credit: Not provided
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: F
+Textbook: No
+Online Class: Not provided
+Tags: Graded by few things; Test heavy
+Review Text: The reviewer says to avoid Professor Gershman at all costs. They say he assumes students already have a lot of knowledge and is not beginner-friendly. He grades exams harshly and asks difficult questions. The reviewer says he is knowledgeable but not good at teaching the material and treats an intro Unix and scripting class like an advanced class.
+Review 35:
+Course: CS380
+Date: May 7th, 2018
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Online Class: Not provided
+Tags: Clear grading criteria; Caring; Lecture heavy
+Review Text: The reviewer says they enjoyed Professor Gershman and had him for C++ Programming and Computer Networks. They say the book is not needed because quizzes and exams come from his notes, which he posts online. The reviewer describes him as passionate about the subjects he teaches and says this adds depth and real-world experience to lectures. They recommend being comfortable with Linux.
+

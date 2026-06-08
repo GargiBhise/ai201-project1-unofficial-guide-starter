@@ -1,0 +1,185 @@
+Source: Rate My Professors page for Crisrael Lucero
+Professor: Crisrael Lucero
+Department: Computer Science
+School: Cal Poly Pomona
+Summary:
+Overall Quality: 5.0 / 5
+Based on: 13 student ratings
+Would Take Again: 100%
+Level of Difficulty: 3.4 / 5
+Rating Distribution:
+Awesome: 13
+Great: 0
+Good: 0
+OK: 0
+Awful: 0
+Review 1:
+Course: 4310
+Date: May 24th, 2026
+Quality: 5.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Group projects; Amazing lectures; Caring
+Review Text: The reviewer says Professor Lucero is very knowledgeable because of his industry experience. Exams are tough, but the group project is fun. Programming assignments are interesting and directly related to what students are learning. Three-hour lectures can be rough, but he makes them engaging with memes and several breaks. The reviewer says he is trustworthy because he actively works in industry.
+Review 2:
+Course: 2600
+Date: Jan 21st, 2026
+Quality: 5.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A-
+Textbook: N/A
+Online Class: Not provided
+Tags: Amazing lectures; Caring; Lecture heavy
+Review Text: Professor Lucero is described as caring. His lectures are long, almost three hours, but he gives breaks. The reviewer says his lectures are engaging overall. He is communicative about homework questions and computer science in general. The reviewer describes him as a great professor.
+Review 3:
+Course: 2600
+Date: Nov 4th, 2025
+Quality: 5.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A-
+Textbook: N/A
+Online Class: Not provided
+Tags: Amazing lectures; Clear grading criteria; Inspirational
+Review Text: The reviewer says Professor Lucero genuinely cares and teaches for fun. He wants students to succeed and goes to great lengths to help them feel successful and prepared for the future. The class is difficult for students who expect to coast, so students should be ready to be challenged. The curriculum is reasonable, and the reviewer wishes there were more professors like him.
+Review 4:
+Course: 2600
+Date: Feb 2nd, 2025
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Amazing lectures; Inspirational; Hilarious
+Review Text: Professor Lucero is described as kind, intelligent, and humorous. His lectures were engaging and in depth. Exams were somewhat challenging, but there were many extra credit opportunities. Outside of class, he was approachable, engaged with students, and offered valuable industry insight. The reviewer says he is one of the best professors they have had at Cal Poly Pomona.
+Review 5:
+Course: 2600
+Date: Jan 4th, 2025
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Inspirational; Respected; Accessible outside class
+Review Text: The reviewer describes Professor Lucero as fun, accessible on Discord, and good at making the course interesting. Exams are somewhat difficult, so students should study. The course covers UNIX commands and C++ programming. The reviewer notes that he currently works at Google and cares about helping students with career advice and expertise. There are many extra credit opportunities.
+Review 6:
+Course: 2600
+Date: Dec 12th, 2024
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Group projects; Lots of homework; Lecture heavy
+Review Text: The reviewer says Professor Lucero has a fun personality and genuinely wants students to learn material relevant to industry. The class involved basic UNIX lessons and heavy C assignments and projects, which the reviewer learned a lot from. The reviewer describes the class as useful and highly recommends taking it with him.
+Review 7:
+Course: 2600
+Date: Dec 9th, 2024
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: N/A
+Online Class: Not provided
+Tags: Gives good feedback; Hilarious; Caring
+Review Text: The reviewer says Professor Lucero understands what students need. He keeps class lighthearted and explains difficult topics well. Students should study on their own because there are many commands to memorize for exams. The course is very C++ heavy. The reviewer says he gives feedback over Discord when requested and shares useful life experience.
+Review 8:
+Course: 2600
+Date: Oct 28th, 2024
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Inspirational; Caring; Accessible outside class
+Review Text: The reviewer says the class is not bad if students complete the exercises, since they show up on exams and projects. The reviewer praises Professor Lucero for helping students outside the classroom with career advice, mentorship, and interview preparation. They say he cares about students' success beyond the class itself.
+Review 9:
+Course: 2600
+Date: Jun 7th, 2024
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Amazing lectures; Respected
+Review Text: The reviewer says Professor Lucero turned a class they expected to be boring into a course focused on critical thinking and practical concepts. Exams and concepts are tough, but graded fairly. The reviewer says his industry experience is a benefit and that he offers useful knowledge and career tips.
+Review 10:
+Course: 2600
+Date: Jan 29th, 2024
+Quality: 5.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: B+
+Textbook: N/A
+Online Class: Not provided
+Tags: Inspirational; Hilarious; Caring
+Review Text: The reviewer says Professor Lucero brings relevant industry experience, cares about students, and has an engaging teaching style. The class is somewhat tough, but he has a fair curve and is accessible and accommodating. The reviewer wishes they had invested more effort into the class, noting that C is a difficult language.
+Review 11:
+Course: 2600
+Date: Jan 12th, 2024
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Hilarious; Accessible outside class
+Review Text: The reviewer says Professor Lucero has reasonable expectations for class performance and checked in with students for feedback during the semester. He teaches practical knowledge and shares stories and advice about industry. Exams and projects were challenging for students with no prior experience, but his curves and extra credit made the class forgiving.
+Review 12:
+Course: 2600
+Date: Dec 22nd, 2023
+Quality: 5.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A-
+Textbook: N/A
+Online Class: Not provided
+Tags: Extra credit; Inspirational; Caring
+Review Text: The reviewer says this was Professor Lucero's first semester teaching and that he did very well. Despite being young, he has extensive industry experience, including big tech experience, and creates assignments related to real problems. He cares deeply by asking for feedback and offering career advice and mentorship.
+Review 13:
+Course: 2600
+Date: Dec 19th, 2023
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Amazing lectures; Clear grading criteria; Gives good feedback
+Review Text: The reviewer describes Professor Lucero as the ideal CS professor. He genuinely wants students to succeed and goes out of his way to help. He has clear grading criteria and takes class feedback to improve his teaching. He knows the material well and is especially strong for students who truly want to learn. The reviewer says students who dislike him may be students who are afraid of effort.
+

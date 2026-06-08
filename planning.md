@@ -9,114 +9,103 @@
 
 ## Domain
 
-<!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+My domain is student reviews of Computer Science professors at Cal Poly Pomona. This knowledge is valuable because official university pages and course catalogs usually list course descriptions, prerequisites, and instructor names, but they do not explain what students actually experience in the class. Students often want to know whether a professor gives useful feedback, how hard the exams are, whether attendance matters, whether the course is project-heavy, and whether the class is useful for learning or mainly an easy grade.
 
 ---
 
 ## Documents
 
-<!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
-     Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
+I collected 10 Rate My Professors review documents about Computer Science professors at Cal Poly Pomona. Each document contains a professor summary plus individual student reviews, course names, ratings, difficulty scores, attendance information, grading comments, and student opinions about lectures, projects, exams, homework, and feedback.
 
-| # | Source | Description | URL or location |
-|---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| #  | Source                                     | Description                                                                                                                                          | URL or location                            |
+| -- | ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| 1  | Yu Sun Rate My Professors reviews          | Reviews about Yu Sun’s CS courses, including CS4680, CS4750, CS4800, CS4990, CS3560, and CS480.                                                      | `data/raw/yu_sun_rmp_reviews.txt`          |
+| 2  | Gilbert Young Rate My Professors reviews   | Reviews about Gilbert Young’s CS courses, especially CS3310, CS4310, CS3110, and older CS courses.                                                   | `data/raw/gilbert_young_rmp_reviews.txt`   |
+| 3  | Ericsson Marin Rate My Professors reviews  | Reviews about Ericsson Marin’s CS courses, including CS4210, CS4440, CS4250, CS3560, CS5800, and CS1400.                                             | `data/raw/ericsson_marin_rmp_reviews.txt`  |
+| 4  | Salam Salloum Rate My Professors reviews   | Reviews about Salam Salloum’s CS courses, including CS3310, CS4350, CS3650, CS3560, CS580, and CS210.                                                | `data/raw/salam_salloum_rmp_reviews.txt`   |
+| 5  | David Johannsen Rate My Professors reviews | Reviews about David Johannsen’s CS courses, including CS3560, CS4650, CS4750, CS3650, CS2640, CS1400, and CS2600.                                    | `data/raw/david_johannsen_rmp_reviews.txt` |
+| 6  | Xuesong Zhang Rate My Professors reviews   | Reviews about Xuesong Zhang’s CIS and CS-related courses, including CIS1010, CIS3650, GBA6050, and CIS3150.                                          | `data/raw/xuesong_zhang_rmp_reviews.txt`   |
+| 7  | Crisrael Lucero Rate My Professors reviews | Reviews about Crisrael Lucero’s CS2600 and CS4310 courses, including student comments about industry experience and difficult but useful coursework. | `data/raw/crisrael_lucero_rmp_reviews.txt` |
+| 8  | David Gershman Rate My Professors reviews  | Reviews about David Gershman’s CS2600, CS3800, and CS4310 courses, especially comments about test-heavy grading and difficulty.                      | `data/raw/david_gershman_rmp_reviews.txt`  |
+| 9  | Keivan Navi Rate My Professors reviews     | Reviews about Keivan Navi’s CS courses, including CS3650, CS3010, CS4310, CS2640, CS4200, and CS1300.                                                | `data/raw/keivan_navi_rmp_reviews.txt`     |
+| 10 | Rick Ramirez Rate My Professors reviews    | Reviews about Rick Ramirez’s CS4080 and CS2400 courses, including comments about presentations, homework, exams, and student support.                | `data/raw/rick_ramirez_rmp_reviews.txt`    |
 
 ---
 
 ## Chunking Strategy
 
-<!-- How will you split documents into chunks?
-     State your chunk size (in tokens or characters), overlap size, and explain why those
-     numbers fit the structure of your documents.
-     A review-heavy corpus warrants different chunking than a long FAQ. -->
-
 **Chunk size:**
+I will use review-based chunks. Each individual review will become one chunk when possible. If a review is unusually long, I will split it into smaller chunks of about 700 characters.
 
 **Overlap:**
+I will use about 100 characters of overlap only when a long review has to be split. For normal reviews, I will not use overlap because each review is already a complete unit with its own course, rating, difficulty, tags, and review text.
 
 **Reasoning:**
+My documents are review-heavy, not long textbook-style documents. Each review usually contains one complete student opinion about one professor and course, so splitting in the middle of reviews would make retrieval worse. Keeping each review together helps the system retrieve complete evidence about topics like exams, homework, grading, attendance, lecture quality, difficulty, and whether the professor is helpful. If a review is too long, a small overlap will help preserve context across the split.
 
 ---
 
 ## Retrieval Approach
 
-<!-- Which embedding model are you using (e.g., all-MiniLM-L6-v2 via sentence-transformers)?
-     How many chunks will you retrieve per query (top-k)?
-     If you were deploying this for real users and cost wasn't a constraint, what tradeoffs
-     would you weigh in choosing a different embedding model — context length, multilingual
-     support, accuracy on domain-specific text, latency? -->
-
 **Embedding model:**
+I will use `sentence-transformers` with the `all-MiniLM-L6-v2` model. This model runs locally, does not require an API key, and is recommended by the project instructions.
 
 **Top-k:**
+I will retrieve the top 5 chunks for each query. This should give the LLM enough context to answer questions using several student reviews without overwhelming it with too much unrelated information.
 
 **Production tradeoff reflection:**
+If I were deploying this for real users and cost was not a constraint, I would compare embedding models based on accuracy, context length, latency, and cost. A larger embedding model might understand nuanced student language better, especially slang or mixed positive/negative reviews, but it may be slower and more expensive. I would also consider whether the model handles multilingual reviews, whether it can run locally for privacy, and whether it performs well on short opinion-based text.
 
 ---
 
 ## Evaluation Plan
 
-<!-- List your 5 test questions with their expected correct answers.
-     Questions should be specific enough that you can judge whether the system's response
-     is right or wrong. "What are good dining halls?" is too vague.
-     "What do students say about wait times at [dining hall name] during lunch?" is testable. -->
-
-| # | Question | Expected answer |
-|---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| # | Question                                                                                   | Expected answer                                                                                                                                                                                                 |
+| - | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 | Which professor is most often described as having tough or test-heavy grading?             | David Gershman should be identified because many reviews describe his CS2600 classes as test-heavy, quiz-heavy, graded by few things, and difficult.                                                            |
+| 2 | Which professor is most often praised for industry experience and practical career advice? | Crisrael Lucero should be identified because many reviews mention his industry experience, practical assignments, career advice, mentorship, and real-world CS knowledge.                                       |
+| 3 | Which professor is commonly described as easy, chill, or lenient?                          | David Johannsen should be a strong answer because many reviews describe his classes as easy, chill, low-stress, flexible with deadlines, and lenient. Yu Sun may also appear for easy project-based courses.    |
+| 4 | What do students say about Keivan Navi’s teaching style?                                   | Students often say he is knowledgeable, caring, and passionate, but his lectures can be disorganized or confusing. Many reviews also say participation matters a lot.                                           |
+| 5 | Which professor is criticized for slow grading or not grading until late in the semester?  | Ericsson Marin, David Johannsen, and David Gershman may appear, but Ericsson Marin should be included because several reviews specifically mention grading delays or not grading until the end of the semester. |
 
 ---
 
 ## Anticipated Challenges
 
-<!-- What could go wrong? Name at least two specific risks with reasoning.
-     Consider: noisy or inconsistent documents, missing source attribution, off-topic
-     retrieval, chunks that split key information across boundaries. -->
+1. Some reviews are noisy, informal, or contradictory. For example, one student may describe a professor as very helpful while another student says the same professor is disorganized or difficult. The system may need to summarize disagreement instead of giving a single simple answer.
 
-1.
+2. Retrieval may confuse professors who teach similar courses or receive similar comments. For example, several professors are described as lecture-heavy, test-heavy, caring, or easy, so the vector search may retrieve chunks about the wrong professor if the query is too broad.
 
-2.
+3. Some source documents have many reviews while others have only a few. Professors with more reviews may dominate retrieval results because there is more text about them, even when a smaller document may contain the best answer.
+
+4. If chunking splits a review away from its course name or professor name, the system may lose source context. To prevent this, each chunk should include the professor name, course, and review text together.
 
 ---
 
 ## Architecture
 
-<!-- Draw a diagram of your pipeline showing the five stages:
-     Document Ingestion → Chunking → Embedding + Vector Store → Retrieval → Generation
-     Label each stage with the tool or library you're using.
-     You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
-     You'll use this diagram as context when prompting AI tools to implement each stage. -->
+```mermaid
+flowchart LR
+    A[Document Ingestion: local .txt files in data/raw] --> B[Cleaning: remove copied website junk and blank lines]
+    B --> C[Chunking: one review per chunk when possible]
+    C --> D[Embeddings: sentence-transformers all-MiniLM-L6-v2]
+    D --> E[Vector Store: ChromaDB with source metadata]
+    E --> F[Retrieval: top 5 relevant chunks per query]
+    F --> G[Generation: Groq llama-3.3-70b-versatile]
+    G --> H[Grounded answer with cited source files]
+```
 
 ---
 
 ## AI Tool Plan
 
-<!-- For each part of the pipeline below, describe:
-     - Which AI tool you plan to use (Claude, Copilot, ChatGPT, etc.)
-     - What you'll give it as input (which sections of this planning.md, which requirements)
-     - What you expect it to produce
-     - How you'll verify the output matches your spec
+For the ingestion and cleaning step, I will use ChatGPT to help write a script that loads all `.txt` files from `data/raw`, removes extra blank lines or copied website boilerplate, and preserves useful review information such as professor name, course, date, quality, difficulty, tags, and review text. I will give ChatGPT my Documents section and Chunking Strategy section. I will verify the output by printing one cleaned document and checking whether the useful review text remains.
 
-     "I'll use AI to help me code" is not a plan.
-     "I'll give Claude my Chunking Strategy section and ask it to implement chunk_text()
-     with my specified chunk size and overlap" is a plan. -->
+For the chunking step, I will use ChatGPT to help implement a `chunk_text()` or `load_reviews_as_chunks()` function that keeps each review together as one chunk. I will give ChatGPT my Chunking Strategy section and ask it to avoid splitting in the middle of normal reviews. I will verify the output by printing at least 5 chunks and checking that each chunk includes the professor name, course, and complete review text.
 
-**Milestone 3 — Ingestion and chunking:**
+For the embedding and retrieval step, I will use ChatGPT or GitHub Copilot to help write code that embeds chunks with `all-MiniLM-L6-v2`, stores them in ChromaDB, and retrieves the top 5 chunks for a user query. I will give the AI my Retrieval Approach and Architecture sections. I will verify the code by running at least 3 evaluation questions and checking that the returned chunks are relevant and include source metadata.
 
-**Milestone 4 — Embedding and retrieval:**
+For the grounded generation step, I will use ChatGPT to help create a prompt template for Groq’s `llama-3.3-70b-versatile`. I will give it the project requirement that the LLM must answer only from retrieved context and include source attribution. I will verify this by asking an out-of-scope question and making sure the system says it does not have enough information instead of making up an answer.
 
-**Milestone 5 — Generation and interface:**
+For the interface step, I will use ChatGPT or Copilot to help create a simple Gradio or command-line interface. I will verify that a user can type a question, receive an answer, and see the source files or retrieved chunks used to generate the answer.
+

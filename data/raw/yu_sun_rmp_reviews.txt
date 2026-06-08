@@ -1,0 +1,263 @@
+Source: https://www.ratemyprofessors.com/professor/1943004
+Professor: Yu Sun
+Department: Computer Science
+School: Cal Poly Pomona
+Summary:
+Overall Quality: 4.2 / 5
+Based on: 19 student ratings
+Would Take Again: 85%
+Level of Difficulty: 1.9 / 5
+Rating Distribution:
+Awesome: 12
+Great: 2
+Good: 2
+OK: 2
+Awful: 1
+Review 1:
+Course: CS4680
+Date: Dec 9th, 2025
+Quality: 5.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Yes
+Tags: Clear grading criteria; Gives good feedback; Graded by few things
+Review Text: Prompt engineering was a cool, easy class. It was only a few projects to do with AI. Professor Sun was chill.
+Review 2:
+Course: CS4750
+Date: Jul 16th, 2025
+Quality: 5.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Yes
+Tags: Clear grading criteria; Graded by few things
+Review Text: I am pretty sure he just gives everyone an A as long as you put effort into your app. The app can be anything you want. Cool class.
+Review 3:
+Course: CS4800
+Date: May 13th, 2025
+Quality: 2.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: Not sure yet
+Textbook: N/A
+Online Class: Not provided
+Tags: Group projects
+Review Text: He started moving lectures to Zoom and uploading old lecture videos, but often would not let students know about the change until just before class would start, and once even mid-class. It was a problem trying to get him to reply to emails. However, the class itself was not very difficult and was almost completely graded on the group capstone project.
+Review 4:
+Course: CS4990
+Date: May 10th, 2024
+Quality: 5.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Inspirational; Respected
+Review Text: Professor Sun is super nice and interesting. The class is extremely easy. The whole point is to get GPT to do things more efficiently. The baseline to get an A is very low, but he encourages students to go deeper and explore topics related to NLP.
+Review 5:
+Course: CS4990
+Date: Apr 24th, 2024
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: N/A
+Online Class: Not provided
+Tags: Inspirational; Caring
+Review Text: For his prompt engineering course, he was great, although sometimes it felt as though he was making up the course as he went along. Despite that, students can learn a lot, and he does not grade too harshly. The projects and topics are generally interesting. Great professor.
+Review 6:
+Course: CS4750
+Date: Apr 24th, 2024
+Quality: 4.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: N/A
+Online Class: Not provided
+Tags: Helpful
+Review Text: The class material is not that hard. It is mainly asynchronous, with Professor Sun posting certain YouTube videos to watch. What makes him difficult is that he does not respond to emails and is not available for much help. Overall, he seems like a nice professor, and it is an easy A as long as students submit the assignments.
+Review 7:
+Course: CS4800
+Date: Jan 18th, 2024
+Quality: 2.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Group projects; Graded by few things; Accessible outside class
+Review Text: His lectures are mostly him talking about the industry. He gives very little guidance for the semester-long projects but requires students to implement specific features. The class depends heavily on the group. There are no exams, and attendance is not required unless students have to present part of their project.
+Review 8:
+Course: CS3560
+Date: Dec 20th, 2023
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not provided
+Textbook: N/A
+Online Class: Not provided
+Tags: Graded by few things
+Review Text: There are no quizzes or exams, only three solo projects, two of which are major projects, and the third builds off the second. There is also one group presentation. Attendance is not required, and the material covers design patterns for Java. The class is easy enough, and he and his TA are easy graders.
+Review 9:
+Course: CS4800
+Date: Sep 27th, 2023
+Quality: 1.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: B+
+Textbook: N/A
+Online Class: Not provided
+Tags: Helpful
+Review Text: The reviewer describes Professor Sun as more like a motivational speaker than a professor. The reviewer and a friend struggled to understand how to start the class project and went to office hours, but they received the same type of speech he gave in class. They ended up taking online web development courses on their own to complete the project and barely made it work.
+Review 10:
+Course: CS4800
+Date: May 27th, 2023
+Quality: 3.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Group projects; Clear grading criteria; Graded by few things
+Review Text: The classes were described as uninteresting. Professor Sun spent much of the time talking about the industry, which the reviewer summarized as advice to apply to many places, and did not teach much. There was some guidance for the large semester-long project, but not as much as the reviewer expected for an important class in the major.
+Review 11:
+Course: CS4800
+Date: May 11th, 2023
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: N/A
+Online Class: Not provided
+Tags: Group projects; Gives good feedback
+Review Text: Professor Sun is one of the only professors in the CS department who focuses on preparing students for the outside world after graduation. Students can pass without attending much, but the reviewer says this is one of the only classes actually worth attending sometimes. CS4800 was a semester-long group project to develop a web-based application, and the reviewer learned useful material.
+Review 12:
+Course: CS3560
+Date: Jan 26th, 2023
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Graded by few things; Accessible outside class; Online Savvy
+Review Text: The class is very easy. The first assignment may be slightly tricky, but the remaining two are easy. There are only three assignments and a group presentation on a topic that the reviewer thought should have been an individual assignment. There is no midterm or final. His office hour is always open for questions.
+Review 13:
+Course: CS4750
+Date: Jun 9th, 2022
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Yes
+Tags: Inspirational; Caring
+Review Text: The difficulty of the course depends on how much students want to work on their project. The reviewer liked that Professor Sun pushed everyone to publish their app to Google Play, which provided a useful resume item. The course involved a lot of self-learning, but the reviewer thought that matched how developers should work.
+Review 14:
+Course: CS4750
+Date: Jan 23rd, 2022
+Quality: 3.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: No
+Online Class: Not provided
+Tags: Graded by few things
+Review Text: The reviewer describes Professor Sun as mediocre. In a winter class, he did not teach much and mostly gave pre-recorded lectures to watch. Some video content was outdated, so students had to look up many things themselves. He also did not respond to emails very much.
+Review 15:
+Course: CS4800
+Date: Mar 12th, 2021
+Quality: 5.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Not provided
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Online Class: Not provided
+Tags: Respected; Group projects; Caring
+Review Text: This was one of the few classes the reviewer took that focused on practical experience and advice instead of many assignments. There was little stress, and passing was not an issue if students worked on the semester-long project regularly. The reviewer paid attention to the helpful lectures and advice and actually learned something.
+Review 16:
+Course: CS4990
+Date: May 1st, 2020
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: No
+Online Class: Not provided
+Tags: Respected; Inspirational; Caring
+Review Text: Professor Sun's lectures are hands-on and practical. He adapts to use the latest technology, and his top priority is preparing students for their careers. Besides the course content, the reviewer learned a lot about job applications and career planning. The reviewer describes him as a true mentor because he thinks about students.
+Review 17:
+Course: CS4800
+Date: Dec 18th, 2019
+Quality: 4.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Online Class: Not provided
+Tags: Gives good feedback; Respected; Graded by few things
+Review Text: Professor Sun is a great professor for learning about the industry. There are no tests. The main issue in the class is learning how to build a web service, especially for students with no prior experience. Students should sit near smart or hardworking classmates because groups are formed on the first day for the semester-long project.
+Review 18:
+Course: CS480
+Date: Apr 6th, 2017
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Online Class: Not provided
+Tags: Lots of homework; Caring; Group projects
+Review Text: Dr. Sun is knowledgeable about the subject and communicates clearly through lectures and presentation materials. Live coding demos and energetic lectures keep the class interesting. The workload depends on how much students want to put in. If students are motivated to learn a lot about software engineering quickly, he is a good choice.
+Review 19:
+Course: CS480
+Date: Feb 6th, 2017
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Not provided
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Online Class: Not provided
+Tags: Inspirational; Caring; Group projects
+Review Text: The reviewer says Professor Sun is the best Software Engineering professor at Cal Poly Pomona and that this is one of the only classes that matters outside of college.
+

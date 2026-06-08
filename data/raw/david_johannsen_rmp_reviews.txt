@@ -1,0 +1,367 @@
+Source: Rate My Professors page for David Johannsen
+Professor: David Johannsen
+Department: Computer Science
+School: Cal Poly Pomona
+Summary:
+Overall Quality: 4.6 / 5
+Based on: 27 student ratings
+Would Take Again: 86%
+Level of Difficulty: 2.0 / 5
+Rating Distribution:
+Awesome: 21
+Great: 3
+Good: 1
+OK: 1
+Awful: 1
+Review 1:
+Course: CS3560
+Date: Apr 16th, 2026
+Quality: 4.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: N/A
+Online Class: Not provided
+Tags: Caring
+Review Text: The reviewer says Professor Johannsen is a good choice for an easy A. Attendance is not required, and all quizzes and exams are online. The course has light homework and one manageable group project, making it low-stress. He is described as kind, flexible with late work, and one of the most chill professors at Cal Poly.
+Review 2:
+Course: CS4650
+Date: Jan 20th, 2026
+Quality: 5.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: N/A
+Online Class: Not provided
+Tags: Clear grading criteria; Gives good feedback; Caring
+Review Text: Professor Johannsen is described as a very easy grader. The reviewer notes that grading happened weeks after the semester ended, so students should not expect to know how they are doing during the course. Aside from that, he is easy to work with, does not assign much homework, and used one semester-long group project instead of a final.
+Review 3:
+Course: CS4650
+Date: Dec 9th, 2025
+Quality: 3.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Graded by few things
+Review Text: The reviewer says Professor Johannsen is boring and mostly reads from slides. They stopped attending after the first week but were still able to submit all work and pass. The reviewer recommends taking him if students do not expect to learn much.
+Review 4:
+Course: CS4650
+Date: Nov 30th, 2025
+Quality: 2.0
+Difficulty: 1.0
+For Credit: Not provided
+Attendance: Not provided
+Would Take Again: Not provided
+Grade: Rather not say
+Textbook: Not provided
+Online Class: Not provided
+Tags: Lecture heavy
+Review Text: The reviewer says Professor Johannsen is very chill, but the class is one of the most boring CS classes they have taken. Each class is mostly lecture and slide review, and many students zone out or stop attending. There are no exams, only assignments and a group capstone project. The reviewer says the class is easy overall but not very engaging.
+Review 5:
+Course: CS4650
+Date: Dec 1st, 2024
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Yes
+Tags: Group projects; Caring; Respected
+Review Text: The reviewer says Professor Johannsen is kind and always willing to help. Lectures are not especially exciting because they mostly involve going over slides, but attendance is not mandatory. The reviewer describes him as a great professor.
+Review 6:
+Course: CS3650
+Date: Aug 29th, 2024
+Quality: 1.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: Rather not say
+Textbook: Yes
+Online Class: Not provided
+Tags: Not provided
+Review Text: The reviewer says the course was supposed to be in person but changed to fully online at the last second. They say lecture quality dropped significantly and technical issues made the material difficult to understand.
+Review 7:
+Course: CS4750
+Date: Feb 5th, 2024
+Quality: 5.0
+Difficulty: Not provided
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Online Class: Not provided
+Tags: Group projects; Caring
+Review Text: The reviewer says the class is great. There are three homework coding assignments, and passing mostly requires copying code from the textbook. Quizzes are reasonable and open note, and the final is a group project. Professor Johannsen is described as nice, lenient, and flexible with homework deadlines.
+Review 8:
+Course: CS4750
+Date: Jan 13th, 2024
+Quality: 5.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Extra credit; Group projects; Caring
+Review Text: The reviewer describes Professor Johannsen as very nice, chill, and possibly the best CS professor. Lectures mostly involve reading slides. The class includes three individual homework projects based on the book, a few online quizzes, and one final group project involving an app idea. The project does not need to be ambitious, but students should put in effort.
+Review 9:
+Course: CS4750
+Date: Dec 10th, 2023
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: Yes
+Online Class: Not provided
+Tags: Extra credit; Group projects; Caring
+Review Text: The reviewer says Professor Johannsen is great and very kind. The class is not too difficult and includes three moderately sized book projects and one group project near the end. There are no exams, but there are a few in-class quizzes. Lectures can be slow because they mostly follow slides, but he tries to make students curious.
+Review 10:
+Course: CS3650
+Date: Aug 6th, 2023
+Quality: 4.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: A+
+Textbook: N/A
+Online Class: Not provided
+Tags: Not provided
+Review Text: The reviewer says lectures are very boring and easy to skip. They say recorded lectures are not very good because of camera quality. The reviewer says students fill his classes quickly because they are easy to pass and likely to result in high grades, but they did not learn much from lectures.
+Review 11:
+Course: CS4650
+Date: May 11th, 2023
+Quality: 4.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Not provided
+Review Text: The reviewer says Professor Johannsen seems caring and knowledgeable. Lectures were boring and not very interesting, and only about a quarter of the class was still attending halfway through the semester. However, the reviewer says he taught useful material. There was supposed to be more quizzes, but only one quiz and one extra-credit quiz were given. There was no midterm, and the final was a group project.
+Review 12:
+Course: CS4750
+Date: Apr 9th, 2023
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: Yes
+Online Class: Not provided
+Tags: Caring; Respected; Online Savvy
+Review Text: The reviewer says Dr. Johannsen is genuinely the nicest professor they have had. He seems to care about all students and wants everyone to get an A. The reviewer highly recommends him.
+Review 13:
+Course: CS3650
+Date: Feb 7th, 2023
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: N/A
+Online Class: Not provided
+Tags: Clear grading criteria; Respected
+Review Text: The reviewer says Johannsen is their favorite CS professor at the college and recommends him. They say office hours help a lot.
+Review 14:
+Course: CS2640
+Date: Nov 24th, 2022
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Online Class: Not provided
+Tags: Extra credit; Caring; Accessible outside class
+Review Text: The reviewer says Professor Johannsen is one of the best CS professors and that students are lucky if they can get into his class because it fills quickly. He genuinely cares about students, is generous with deadline extensions, and has very helpful office hours where he walks students through problems.
+Review 15:
+Course: CS2640
+Date: May 23rd, 2022
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Extra credit; Amazing lectures; Clear grading criteria
+Review Text: The reviewer came in with no assembly knowledge and says Professor Johannsen was fantastic at teaching and very understanding. Exams were online, there was no group work, and there was a lot of extra credit. The final could be a take-home project or exam. Assignments were interesting, and although the course was somewhat difficult, the professor made it easier.
+Review 16:
+Course: CS1400
+Date: Apr 23rd, 2022
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Yes
+Tags: Amazing lectures; Clear grading criteria; Respected
+Review Text: Professor Johannsen is described as chill, easygoing, and knowledgeable about computer science. During Zoom meetings, he mostly talked through slides. He was very willing to help students who needed support. The class had very few homework assignments, about three, involving coding scenarios.
+Review 17:
+Course: CS2640
+Date: Jan 25th, 2022
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Online Class: Yes
+Tags: Respected; Caring; Extra credit
+Review Text: The reviewer says Johannsen is one of the best professors they have ever had. Lectures are informative, assignments are difficult but doable, and exams are fairly easy and straightforward. He gives students chances to recover their grade through extra credit and exam repetition and takes student feedback into account.
+Review 18:
+Course: CS2640
+Date: Dec 16th, 2021
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: No
+Online Class: Yes
+Tags: Gives good feedback; Caring; Extra credit
+Review Text: The reviewer says Professor Johannsen is one of the best professors on campus. He is caring, wants students to pass, and generously extends deadlines. Lectures can be boring when he reads slides, but the slides are detailed and contain what students need to succeed. The class had five quizzes, one midterm, and one final.
+Review 19:
+Course: CS1400
+Date: Dec 11th, 2021
+Quality: 5.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: No
+Online Class: Not provided
+Tags: Gives good feedback; Accessible outside class; Graded by few things
+Review Text: The reviewer says the pace of the class can be fast and recommends practicing Java or another programming language before taking it. Homework difficulty grows quickly. The grader was slow returning assignments, but the reviewer describes Johannsen as a great professor and says there was not too much homework.
+Review 20:
+Course: CS2640
+Date: Dec 9th, 2021
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Online Class: Yes
+Tags: Gives good feedback; Caring; Extra credit
+Review Text: The reviewer says Professor Johannsen is one of the best professors at the school. He is knowledgeable, nice, and offers extra credit to help students raise their grades. He genuinely wants everyone to pass. Some concepts can be difficult, but students should be fine if they attend office hours or ask questions in class.
+Review 21:
+Course: CS1400
+Date: Dec 2nd, 2021
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Online Class: Not provided
+Tags: Participation matters; Lecture heavy; Caring
+Review Text: The reviewer says Professor Johannsen is caring and understanding. Students with no Java experience may find the class more difficult, but he is willing to help, and classmates may help as well.
+Review 22:
+Course: CS4750
+Date: Jul 6th, 2021
+Quality: 5.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: Yes
+Online Class: Yes
+Tags: Gives good feedback; Respected; Inspirational
+Review Text: The reviewer says the Android development class is useful. Students made three apps from the textbook and then one group project, which could also be done alone. The class is not hard if students follow the book. Professor Johannsen is chill and thoughtful, and the reviewer strongly recommends the class.
+Review 23:
+Course: CS2600
+Date: Jun 7th, 2021
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not provided
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Online Class: Yes
+Tags: Gives good feedback; Accessible outside class; Extra credit
+Review Text: The reviewer says Professor Johannsen is nice and that they planned to take him again. He is helpful, lenient with homework and tests, and explains material well. Coding assignments are manageable, and there are multiple extra credit opportunities. The reviewer highly recommends him.
+Review 24:
+Course: CS4750
+Date: May 23rd, 2021
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Online Class: Yes
+Tags: Gives good feedback; Respected; Caring
+Review Text: The reviewer says Professor Johannsen is one of the most caring professors and that they had taken five classes with him. Students can learn a lot in his classes, and he is always willing to help. He gives clear explanations and expectations and tends to prefer projects and interesting work over busywork. The reviewer strongly recommends him.
+Review 25:
+Course: CS2600
+Date: May 8th, 2021
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A-
+Textbook: No
+Online Class: Yes
+Tags: Accessible outside class; Hilarious; Caring
+Review Text: The reviewer says Professor Johannsen is very nice, listens to students, and makes accommodations when needed. He is able to explain the material clearly and answer questions about the content. The reviewer highly recommends taking him.
+Review 26:
+Course: CS2990
+Date: Feb 7th, 2021
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: No
+Online Class: Yes
+Tags: Respected; Graded by few things; Caring
+Review Text: The reviewer says Professor Johannsen is kind, patient, and lenient with homework deadlines when students are struggling. Students should email him if they need help. There are very few homework assignments and quizzes, so each one carries a lot of weight.
+Review 27:
+Course: CS1300
+Date: Dec 7th, 2020
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not provided
+Would Take Again: Yes
+Grade: Not provided
+Textbook: No
+Online Class: Not provided
+Tags: Accessible outside class; Graded by few things; Clear grading criteria
+Review Text: The reviewer says Professor Johannsen is easily the best CS teacher on campus. They had him for both CS1300 and CS3650, and both classes were well organized. Expectations for tests were clear. The reviewer says he is nice, enjoys his job, and recommends taking him if possible.
+

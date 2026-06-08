@@ -1,0 +1,494 @@
+Source: Rate My Professors page for Keivan Navi
+Professor: Keivan Navi
+Department: Computer Science
+School: Cal Poly Pomona
+Summary:
+Overall Quality: 3.3 / 5
+Based on: 37 student ratings
+Would Take Again: 63%
+Level of Difficulty: 2.7 / 5
+Rating Distribution:
+Awesome: 12
+Great: 4
+Good: 10
+OK: 5
+Awful: 6
+Review 1:
+Course: CS3650
+Date: Jan 13th, 2026
+Quality: 3.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: A-
+Textbook: N/A
+Online Class: Not provided
+Tags: Participation matters; Lecture heavy
+Review Text: The reviewer describes Professor Navi as quirky. His lectures are both entertaining and confusing; some days students learn something, while other days they may not. The reviewer recommends attending class every day, participating, and building a good relationship with him because he may be more forgiving with grades when students make an effort. Students should study homework, discussions, and slides.
+Review 2:
+Course: CS3650
+Date: Dec 13th, 2025
+Quality: 3.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: B
+Textbook: N/A
+Online Class: Not provided
+Tags: Not provided
+Review Text: The reviewer says Professor Navi is engaging and has invented some of the material he teaches, which means students may not find it online. However, the reviewer says he explains it poorly. The reviewer also alleges that he showed favoritism during a test. They recommend reviewing his PowerPoints on Canvas.
+Review 3:
+Course: CS3010
+Date: Dec 6th, 2025
+Quality: 1.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Not provided
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Not provided
+Review Text: The reviewer says the discussion sessions were unhelpful. Professor Navi mainly interacted with two students, and the reviewer’s questions were not clearly answered despite repeated attempts. The reviewer left the class feeling they had not learned much and would not recommend it.
+Review 4:
+Course: CS3650
+Date: Dec 4th, 2025
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: N/A
+Online Class: Not provided
+Tags: Inspirational; Caring; Respected
+Review Text: The reviewer says Professor Navi is a good teacher who cares about student success. The reviewer believes students who fail are usually not putting in enough effort and says the class is not hard if students try.
+Review 5:
+Course: CS3650
+Date: Aug 14th, 2025
+Quality: 4.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Not provided
+Review Text: The reviewer says Professor Navi is smart and that his class feels like a mix of Stanford CS curriculum taught in a graduate-level style. They say the class may not be ideal for students trying to learn from scratch, but it works for students who learn independently and want to discuss ideas with him. The reviewer notes that his notes and tests are handwritten and include made-up terms or research concepts.
+Review 6:
+Course: CS3010
+Date: May 24th, 2025
+Quality: 1.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Not provided
+Grade: A-
+Textbook: N/A
+Online Class: Not provided
+Tags: Caring; Test heavy; Accessible outside class
+Review Text: The reviewer warns that the positive reviews are not accurate. They describe Professor Navi as sweet and caring, but a poor teacher. The reviewer says students often have to teach themselves and that the final project lacked instructions. They recommend taking someone else.
+Review 7:
+Course: CS3010
+Date: May 15th, 2025
+Quality: 1.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Not provided
+Grade: Not sure yet
+Textbook: N/A
+Online Class: Not provided
+Tags: Tough grader; Participation matters; Test heavy
+Review Text: The reviewer says students need to get on Professor Navi’s good side to have their questions answered. Otherwise, they may receive unhelpful responses. The reviewer criticizes the class environment and says students may feel pressured to gain favor for a good grade.
+Review 8:
+Course: CS4310
+Date: Mar 4th, 2025
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Extra credit; Lecture heavy
+Review Text: The reviewer says Dr. Navi is extremely knowledgeable about operating systems. He teaches details through examples and is passionate about the subject. He encourages participation, uses both slides and whiteboard writing, and had three midterms based on lectures.
+Review 9:
+Course: 4660
+Date: Mar 4th, 2025
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Gives good feedback; Caring; Respected
+Review Text: The reviewer says Professor Navi has a bit of an accent, but his overall lectures are good. He gives weekly discussions about the topic of the week.
+Review 10:
+Course: CS3650
+Date: Mar 4th, 2025
+Quality: 5.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Online Class: Not provided
+Tags: Participation matters; Clear grading criteria; Gives good feedback
+Review Text: The reviewer says discussions helped a lot for exams.
+Review 11:
+Course: CS4200
+Date: Mar 4th, 2025
+Quality: 5.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Online Class: Not provided
+Tags: Clear grading criteria; Lecture heavy; Accessible outside class
+Review Text: The reviewer says Professor Navi gave good lectures on artificial intelligence.
+Review 12:
+Course: CS3010
+Date: Mar 4th, 2025
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Not provided
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A-
+Textbook: N/A
+Online Class: Not provided
+Tags: Participation matters; Gives good feedback; Lots of homework
+Review Text: The reviewer says Professor Navi is a good professor for the course.
+Review 13:
+Course: CS2640
+Date: Mar 4th, 2025
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not provided
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Online Class: Not provided
+Tags: Participation matters; Amazing lectures; Gives good feedback
+Review Text: The reviewer says Professor Navi is a really good professor.
+Review 14:
+Course: CS3010
+Date: Dec 19th, 2024
+Quality: 2.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: B+
+Textbook: N/A
+Online Class: Not provided
+Tags: Participation matters; Caring; Graded by few things
+Review Text: The reviewer says Professor Navi is very nice and knowledgeable, but they learned almost nothing from the class. Lectures felt disorganized, and it was hard to know what content was important. There were three exams, and most questions were copied from the weekly discussion boards. The reviewer says the class is easy to pass but recommends someone else for students who want to learn.
+Review 15:
+Course: CS3650
+Date: Nov 1st, 2024
+Quality: 4.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Textbook: N/A
+Online Class: Not provided
+Tags: Participation matters; Lecture heavy; Graded by few things
+Review Text: The reviewer says this is almost a two-hour class. Tuesdays are usually straight lecture, and Professor Navi does not clearly announce the topic before writing and talking. Concepts are straightforward if students pay attention but can become confusing. He takes a long time to grade. Grades are based on homework and midterms, with no projects or coding.
+Review 16:
+Course: CS2640
+Date: May 10th, 2024
+Quality: 5.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Participation matters; Graded by few things
+Review Text: The reviewer says students who participate and stay engaged in class can consistently do well on exams and earn an A. Otherwise, students may struggle with unclear exams that include material not covered in class. The reviewer says students will not learn much and do not program in the class.
+Review 17:
+Course: CS2640
+Date: Apr 19th, 2024
+Quality: 3.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: N/A
+Online Class: Not provided
+Tags: Participation matters; Lecture heavy
+Review Text: The reviewer says Professor Navi improved compared with the first time they took him. The class has three exams including the final, no quizzes, and some homework. Most time is spent lecturing, which can get boring and long. Students work in groups on easy assignments. He takes a while to grade, but students who participate will pass. There is no programming.
+Review 18:
+Course: CS4310
+Date: Feb 5th, 2024
+Quality: 3.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Not provided
+Review Text: The reviewer says students will likely not learn much about operating systems but can get an A. There is no homework and no quizzes, only one to three tests depending on the class and a final. Tests are exact copies of worksheets completed in class.
+Review 19:
+Course: CS3650
+Date: Jan 24th, 2024
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Amazing lectures; Respected; Lecture heavy
+Review Text: The reviewer says Professor Navi is knowledgeable and respected. He allows students to explore topics deeply while keeping the standard for an A low. According to the reviewer, students who answer a question in class can still earn an A even if they fail exams, while students who do not participate are graded on exams.
+Review 20:
+Course: CS2640
+Date: Jan 24th, 2024
+Quality: 2.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Get ready to read; Participation matters; Lecture heavy
+Review Text: The reviewer says Professor Navi teaches complex subjects in a disorganized way. Students should be ready to learn the material themselves, although exams are reasonable.
+Review 21:
+Course: CS4310
+Date: Jan 18th, 2024
+Quality: 1.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Beware of pop quizzes; Test heavy; Graded by few things
+Review Text: The reviewer says students will likely not learn much. Lectures are disorganized, and sometimes there is little lecture. Discussion board questions are the main thing that matters because they appear on exams almost verbatim. The reviewer describes the class as easy but a waste of time.
+Review 22:
+Course: CS4200
+Date: Dec 26th, 2023
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: N/A
+Online Class: Not provided
+Tags: Participation matters; Caring; Respected
+Review Text: The reviewer says Professor Navi is knowledgeable and caring. He has a unique lecture style, and the reviewer learned through discussions. The class can be easy not to take seriously because he is very chill. There were four exams related to slides and discussions, and the reviewer describes it as an easy A.
+Review 23:
+Course: CS4310
+Date: Dec 18th, 2023
+Quality: 1.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Not provided
+Review Text: The reviewer says Professor Navi is caring and interesting, but the class material was not useful. They say neither the professor nor the students took the class seriously. Students who care about learning operating systems should avoid this professor.
+Review 24:
+Course: CS3650
+Date: Dec 16th, 2023
+Quality: 3.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Textbook: N/A
+Online Class: Not provided
+Tags: Caring; Lecture heavy
+Review Text: The reviewer says Professor Navi is knowledgeable and passionate, but the class feels disorganized and it is hard to tell what information is important. Exams are fairly easy if students attend class and answer discussion questions.
+Review 25:
+Course: CS3650
+Date: Dec 10th, 2023
+Quality: 4.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: N/A
+Online Class: Not provided
+Tags: Group projects; Caring; Test heavy
+Review Text: The reviewer says Professor Navi’s class can be unorganized, but he is knowledgeable. Most classes involved discussion and group problem-solving, followed by students solving questions on the board for review. There were about four exams.
+Review 26:
+Course: CS1300
+Date: May 10th, 2023
+Quality: 3.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: N/A
+Online Class: Yes
+Tags: Hilarious; Caring; Graded by few things
+Review Text: The reviewer says Professor Navi is very nice, but lectures are disorganized. Compared with a previous semester, the class seemed better organized. Tests are multiple choice, and his classes are usually easy to pass, but the reviewer says students will not learn much.
+Review 27:
+Course: CS4200
+Date: May 10th, 2023
+Quality: 1.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Not provided
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Not provided
+Review Text: The reviewer says some classes involved doing nothing because Professor Navi was passing back tests. They also say students watched YouTube lectures given by someone else during an in-person class. Pop quizzes were used as attendance because students stopped showing up. The reviewer says the class is an easy A but not worthwhile.
+Review 28:
+Course: CS2640
+Date: Apr 12th, 2023
+Quality: 3.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Beware of pop quizzes; Respected; Graded by few things
+Review Text: The reviewer says Professor Navi is a good professor, but there was no clear teaching format. Participation matters most, and the reviewer says they were confused most of the time.
+Review 29:
+Course: CS2640
+Date: Apr 8th, 2023
+Quality: 4.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Textbook: N/A
+Online Class: Not provided
+Tags: Participation matters; Beware of pop quizzes; Caring
+Review Text: The reviewer says Professor Navi’s class is an easy A but that they did not learn anything useful. Attendance is graded through in-class group work and pop quizzes. Exams come from homework problems, and he gives students the answers beforehand. The reviewer says Navi makes the class easy.
+Review 30:
+Course: CS1300
+Date: Mar 24th, 2023
+Quality: 2.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: A+
+Textbook: N/A
+Online Class: Not provided
+Tags: Participation matters; Beware of pop quizzes; Test heavy
+Review Text: The reviewer says they earned an A but did not know what they learned. They say other students may not be able to help because Navi teaches unique material not shared across other courses. The reviewer describes him as nice and genuine.
+Review 31:
+Course: CS4200
+Date: Mar 21st, 2023
+Quality: 2.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Not provided
+Would Take Again: Not provided
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Participation matters
+Review Text: The reviewer says every class felt like a waste of time. They describe the class as an easy A but unproductive, with no clear structure. They say Professor Navi is smart but not an effective professor.
+Review 32:
+Course: CS1300
+Date: Dec 21st, 2022
+Quality: 3.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Rather not say
+Textbook: N/A
+Online Class: Not provided
+Tags: Participation matters; Beware of pop quizzes
+Review Text: The reviewer says Professor Navi was nice and interested in what he taught, especially chip manufacturing. However, they were sometimes unsure what the class was learning. Students who participate and attend class every day should be fine. The reviewer found handwritten exams difficult.
+Review 33:
+Course: CS1300
+Date: Dec 21st, 2022
+Quality: 2.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Not provided
+Grade: B+
+Textbook: N/A
+Online Class: Not provided
+Tags: Participation matters; Beware of pop quizzes; Lecture heavy
+Review Text: The reviewer says Professor Navi seemed to write things down as he talked, with no real course structure. They often did not know what they were learning. He does not post anything on Canvas, so students may not know their grade until after finals. The reviewer says he is friendly and passionate but does not recommend him.
+Review 34:
+Course: CS2610
+Date: Dec 19th, 2022
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: N/A
+Online Class: Not provided
+Tags: Amazing lectures; Inspirational; Respected
+Review Text: The reviewer describes Professor Navi as amazing.
+Review 35:
+Course: CS1300
+Date: Dec 17th, 2022
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: N/A
+Online Class: Not provided
+Tags: Participation matters; Caring; Respected
+Review Text: The reviewer says Professor Navi is extremely intelligent and a great professor. He cares about students, and if students participate and show they are trying to learn, he will do everything he can to help.
+Review 36:
+Course: CS4200
+Date: Dec 15th, 2022
+Quality: 3.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: Not sure yet
+Textbook: N/A
+Online Class: Not provided
+Tags: Caring; Respected; Accessible outside class
+Review Text: The reviewer says Professor Navi is wonderful and clever, but not the best artificial intelligence professor. They say his CS4200 class lacked a defined plan and felt like a waste of time.
+Review 37:
+Course: CS1300
+Date: Dec 12th, 2022
+Quality: 3.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: N/A
+Online Class: Not provided
+Tags: Participation matters; Lecture heavy; Graded by few things
+Review Text: The reviewer says Professor Navi is intelligent and passionate, but not the best at teaching. There is little homework and unclear grading. The reviewer says there were still no grades in Canvas by December 12. Tests are exactly like practice problems. The reviewer likes him as a person but found the concepts difficult to grasp.
+

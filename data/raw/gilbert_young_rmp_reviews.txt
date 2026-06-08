@@ -1,0 +1,302 @@
+Source: Rate My Professors page for Gilbert Young
+Professor: Gilbert Young
+Department: Computer Science
+School: Cal Poly Pomona
+Summary:
+Overall Quality: 3.6 / 5
+Based on: 22 student ratings
+Would Take Again: 63%
+Level of Difficulty: 2.6 / 5
+Rating Distribution:
+Awesome: 8
+Great: 4
+Good: 5
+OK: 4
+Awful: 1
+Review 1:
+Course: CS4310
+Date: Nov 30th, 2025
+Quality: 2.0
+Difficulty: 2.0
+For Credit: Not provided
+Attendance: Not provided
+Would Take Again: Not provided
+Grade: Rather not say
+Textbook: Not provided
+Online Class: Not provided
+Tags: Lecture heavy
+Review Text: Professor Young is described as funny, but the class is mostly straight lecture, so by halfway through the semester many students stop attending. There are a couple of homework assignments and projects, but they are fairly easy. The report is tedious. The midterms and final are on Zoom, which the reviewer considered a positive. Overall, the reviewer thought it was a decent class.
+Review 2:
+Course: CS3310
+Date: Oct 13th, 2025
+Quality: 5.0
+Difficulty: 1.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: N/A
+Online Class: Not provided
+Tags: Inspirational; Caring; Respected
+Review Text: Professor Young is described as one of the best professors. The reviewer says he is lenient, easygoing, and makes class fun with good examples. The workload is very light, with a few online quizzes and easy homework. There is no group work, lectures are clear, and grading is fair. The reviewer strongly recommends taking the class.
+Review 3:
+Course: CS4310
+Date: Dec 1st, 2024
+Quality: 4.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Clear grading criteria; Hilarious
+Review Text: The reviewer says Professor Young's lectures are not amazing for students who want to learn deeply, but he does his best to make them fun. The class has a few programming projects, smaller homework assignments, and two exams. Students should review the lecture slides and understand the homework to do well.
+Review 4:
+Course: CS3310
+Date: Jan 24th, 2024
+Quality: 1.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Caring; Graded by few things; Accessible outside class
+Review Text: The reviewer says Professor Young has a thick accent, terrible handwriting, and uses many analogies in lectures. The reviewer could not stand the lecture style and earned an A by using lecture notes and learning the material online. The reviewer says students can do well on exams if they understand the homework. The workload is reasonable if students do not attend class, but they should not take the class expecting to learn the subject deeply.
+Review 5:
+Course: CS3310
+Date: Dec 10th, 2023
+Quality: 4.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: N/A
+Online Class: Not provided
+Tags: Clear grading criteria; Inspirational; Caring
+Review Text: Professor Young is described as kind and funny. The reviewer says lectures can feel strange or somewhat off-topic, but even the unusual analogies still connect to the class topics. The class is not too difficult and includes four homework assignments, two projects, and two exams.
+Review 6:
+Course: CS3310
+Date: Sep 26th, 2023
+Quality: 4.0
+Difficulty: 3.0
+For Credit: Not provided
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: N/A
+Online Class: Not provided
+Tags: Inspirational; Hilarious; Caring
+Review Text: The reviewer describes Professor Young as funny and genuine, but says he talks a lot and many students look lost during lectures. He is caring and does not assign a lot of work, but the reviewer says outside YouTube resources may be more useful for learning the material.
+Review 7:
+Course: CS3310
+Date: Feb 15th, 2023
+Quality: 3.0
+Difficulty: 4.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Lecture heavy; Graded by few things
+Review Text: The reviewer lists several drawbacks: Professor Young has a thick accent, spends too much time on analogies, spends a lot of time on simple concepts, and skips harder topics such as solving Big O problems. The reviewer says homework and project concepts are barely explained, so students should be prepared to self-teach. The positives are that he is extremely lenient with grading and tests are based on homework, so students should understand the homework well.
+Review 8:
+Course: CS5300
+Date: Dec 1st, 2022
+Quality: 2.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: Not provided
+Textbook: N/A
+Online Class: Not provided
+Tags: Not provided
+Review Text: The reviewer says Professor Young does not know how to teach and goes too fast. He writes only a few things on the board and expects students to understand. The reviewer also says his accent made the class more difficult to understand.
+Review 9:
+Course: CS3110
+Date: Sep 28th, 2022
+Quality: 3.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not provided
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Yes
+Tags: Group projects; Lecture heavy; Test heavy
+Review Text: The class includes one group project, two homework assignments, a midterm, and a final. The reviewer says Professor Young's lectures are all over the place, so students may want to watch someone else on YouTube. The midterm and final are very similar to the homework, so students should be prepared if they understand the homework.
+Review 10:
+Course: CS3310
+Date: Aug 22nd, 2022
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Group projects; Hilarious; Graded by few things
+Review Text: Professor Young is described as funny. The only downside mentioned is that there are few assignments, but they are worth a lot of points.
+Review 11:
+Course: CS3310
+Date: Jun 5th, 2022
+Quality: 2.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Not provided
+Grade: A
+Textbook: N/A
+Online Class: Yes
+Tags: Graded by few things
+Review Text: The reviewer says they could not pay attention during class because the lectures were boring and the slides were messy. Professor Young assigned very little work but spent half of the class time going over homework. Homework and a project were due on the last day of school, and grading was extremely late. The reviewer says they had to learn from YouTube.
+Review 12:
+Course: CS4310
+Date: May 21st, 2021
+Quality: 2.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not provided
+Textbook: No
+Online Class: Not provided
+Tags: Not provided
+Review Text: The class had two homework assignments, two labs, a midterm, and a final. The reviewer says the lectures were not the best and that they mainly attended to avoid missing participation discussion boards. The reviewer mostly learned from the slides, which were decent. Labs were simple, homework was based on slides, and the midterm and final were based on homework and fill-in-the-blank material from the slides.
+Review 13:
+Course: CS3310
+Date: Mar 12th, 2021
+Quality: 3.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Online Class: Yes
+Tags: Inspirational; Hilarious; Caring
+Review Text: Professor Young is described as very caring and wanting all students to do well, but his lectures become confusing because he often goes on tangents and tells many stories. The reviewer says the stories are enjoyable until students need to complete assignments. The assignments are manageable, but students need to go through the slides on their own. The reviewer says the class is somewhat hard to learn from but does not regret taking it.
+Review 14:
+Course: CS3310
+Date: Dec 9th, 2020
+Quality: 3.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not provided
+Would Take Again: Yes
+Grade: Not provided
+Textbook: No
+Online Class: Yes
+Tags: Respected; Accessible outside class; Hilarious
+Review Text: During COVID, the reviewer says Professor Young was a great person, but his teaching standards were difficult to follow. He often went on tangents that were funny at first but later became confusing. He was a little hard to understand, but his willingness to work with students and help them have a good experience was viewed positively.
+Review 15:
+Course: CS3310
+Date: Feb 26th, 2020
+Quality: 3.0
+Difficulty: 5.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: No
+Grade: Not provided
+Textbook: No
+Online Class: Not provided
+Tags: Not provided
+Review Text: The reviewer says they could not really understand Professor Young. For the algorithms course, homework did not include helpful examples from the text. The reviewer says his lectures moved fast and they could not keep up with his explanations, possibly because of the accent.
+Review 16:
+Course: CS331
+Date: Jul 30th, 2018
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Online Class: Not provided
+Tags: Gives good feedback; Inspirational; Amazing lectures
+Review Text: The reviewer says Dr. Young is the best professor they have ever had. His lectures are described as clear and concise compared with the textbook. The reviewer learned a lot from the class and says it prepared them for interviews.
+Review 17:
+Course: CS356
+Date: Jun 24th, 2008
+Quality: 5.0
+Difficulty: 1.0
+For Credit: Not provided
+Attendance: Not provided
+Would Take Again: Not provided
+Grade: Not provided
+Textbook: Yes
+Online Class: Not provided
+Tags: Not provided
+Review Text: The reviewer says Professor Young is the best CS professor at the school. They say he helped them get their first job, and now that they are an established programmer, they credit him. They kept his PowerPoint slides after school and describe his lectures as awesome.
+Review 18:
+Course: CS356
+Date: Jul 25th, 2007
+Quality: 5.0
+Difficulty: 3.0
+For Credit: Not provided
+Attendance: Not provided
+Would Take Again: Not provided
+Grade: Not provided
+Textbook: Yes
+Online Class: Not provided
+Tags: Not provided
+Review Text: The reviewer says Professor Young may be the best professor in the Computer Science department.
+Review 19:
+Course: CS130
+Date: Oct 25th, 2005
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Not provided
+Attendance: Not provided
+Would Take Again: Not provided
+Grade: Not provided
+Textbook: Not provided
+Online Class: Not provided
+Tags: Not provided
+Review Text: The reviewer says Dr. Young is very cool and makes the class very easy. He prepares students for exams with detailed examples in class. Students can get extra help from him during office hours. The reviewer earned an A and recommends taking him.
+Review 20:
+Course: CSXXX
+Date: Nov 17th, 2004
+Quality: 5.0
+Difficulty: 1.0
+For Credit: Not provided
+Attendance: Not provided
+Would Take Again: Not provided
+Grade: Not provided
+Textbook: Not provided
+Online Class: Not provided
+Tags: Not provided
+Review Text: The reviewer describes Professor Young as helpful, nice, enthusiastic, clear, and good at giving examples. The reviewer says his classes are not difficult and would take him whenever possible.
+Review 21:
+Course: CS370
+Date: May 19th, 2004
+Quality: 4.5
+Difficulty: 1.0
+For Credit: Not provided
+Attendance: Not provided
+Would Take Again: Not provided
+Grade: Not provided
+Textbook: Not provided
+Online Class: Not provided
+Tags: Not provided
+Review Text: The reviewer says Professor Young is always welcoming during office hours and helpful to students. He grades fairly, and the reviewer recommends taking him for any CS class he teaches.
+Review 22:
+Course: CS380
+Date: Feb 11th, 2003
+Quality: 3.5
+Difficulty: 3.0
+For Credit: Not provided
+Attendance: Not provided
+Would Take Again: Not provided
+Grade: Not provided
+Textbook: Not provided
+Online Class: Not provided
+Tags: Not provided
+Review Text: The reviewer notes seeing Professor Young at school wearing Nikes and a Wu Tang shirt.
+

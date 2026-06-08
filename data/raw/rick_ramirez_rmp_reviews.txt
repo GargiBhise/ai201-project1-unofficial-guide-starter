@@ -1,0 +1,55 @@
+Source: Rate My Professors page for Rick Ramirez
+Professor: Rick Ramirez
+Department: Computer Science
+School: Cal Poly Pomona
+Summary:
+Overall Quality: 5.0 / 5
+Based on: 3 student ratings
+Would Take Again: 100%
+Level of Difficulty: 2.0 / 5
+Rating Distribution:
+Awesome: 3
+Great: 0
+Good: 0
+OK: 0
+Awful: 0
+Review 1:
+Course: CS4080
+Date: Apr 16th, 2026
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: Not sure yet
+Textbook: Yes
+Online Class: Not provided
+Tags: Group projects; Caring
+Review Text: The reviewer describes Professor Ramirez as a unique, young Computer Science professor. He alternates lectures with student presentations. Instead of exams or a final, students complete one group presentation teaching a textbook section. The reviewer says he believes teaching shows knowledge better than an exam. They describe him as relaxed, understanding of the student perspective, and say the class is great.
+Review 2:
+Course: CS2400
+Date: Jan 17th, 2026
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Online Class: Not provided
+Tags: Caring
+Review Text: The reviewer says they also had Professor Ramirez for CS3600 and considers him one of the best Computer Science professors. He posts slides, sometimes ends class early when students are not engaged, extends most homework assignments, and looks for opportunities for students. He also lectures from his experiences and includes those experiences in his slides. The reviewer notes that exams are not easy.
+Review 3:
+Course: CS2400
+Date: Sep 27th, 2025
+Quality: 5.0
+Difficulty: 2.0
+For Credit: Yes
+Attendance: Not Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Online Class: Not provided
+Tags: Not provided
+Review Text: The reviewer took Professor Ramirez in Fall 2024. Lectures mostly involved reading from slides, but he often let students leave early, and attendance was not mandatory. The reviewer recommends doing and studying the homework problems to prepare for exams. Projects were somewhat time-consuming, but he was understanding, extended deadlines, and was willing to help. The reviewer describes him as very nice.
+
