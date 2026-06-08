@@ -35,10 +35,10 @@ I collected 10 Rate My Professors review documents about Computer Science profes
 ## Chunking Strategy
 
 **Chunk size:**
-I will use review-based chunks. Each individual review will become one chunk when possible. If a review is unusually long, I will split it into smaller chunks of about 700 characters.
+I will use one full student review as one chunk. I originally considered splitting unusually long reviews around 700 characters, but during testing that created sentence fragments that lost professor and course context.
 
 **Overlap:**
-I will use about 100 characters of overlap only when a long review has to be split. For normal reviews, I will not use overlap because each review is already a complete unit with its own course, rating, difficulty, tags, and review text.
+I will not use overlap for normal reviews. Since each review is kept together as a complete chunk, overlap is not needed for this dataset.
 
 **Reasoning:**
 My documents are review-heavy, not long textbook-style documents. Each review usually contains one complete student opinion about one professor and course, so splitting in the middle of reviews would make retrieval worse. Keeping each review together helps the system retrieve complete evidence about topics like exams, homework, grading, attendance, lecture quality, difficulty, and whether the professor is helpful. If a review is too long, a small overlap will help preserve context across the split.
@@ -63,7 +63,7 @@ If I were deploying this for real users and cost was not a constraint, I would c
 | # | Question                                                                                   | Expected answer                                                                                                                                                                                                 |
 | - | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 | Which professor is most often described as having tough or test-heavy grading?             | David Gershman should be identified because many reviews describe his CS2600 classes as test-heavy, quiz-heavy, graded by few things, and difficult.                                                            |
-| 2 | Which professor is most often praised for industry experience and practical career advice? | Crisrael Lucero should be identified because many reviews mention his industry experience, practical assignments, career advice, mentorship, and real-world CS knowledge.                                       |
+| 2 | Which professor do students praise for industry experience, career advice, mentorship, and practical assignments? | Yu Sun and Crisrael Lucero should both appear. Yu Sun may appear because reviews mention practical lectures, latest technology, job applications, career planning, and mentorship. Crisrael Lucero should also appear because reviews mention industry experience, big tech experience, practical assignments, career advice, and mentorship. |
 | 3 | Which professor is commonly described as easy, chill, or lenient?                          | David Johannsen should be a strong answer because many reviews describe his classes as easy, chill, low-stress, flexible with deadlines, and lenient. Yu Sun may also appear for easy project-based courses.    |
 | 4 | What do students say about Keivan Navi’s teaching style?                                   | Students often say he is knowledgeable, caring, and passionate, but his lectures can be disorganized or confusing. Many reviews also say participation matters a lot.                                           |
 | 5 | Which professor is criticized for slow grading or not grading until late in the semester?  | Ericsson Marin, David Johannsen, and David Gershman may appear, but Ericsson Marin should be included because several reviews specifically mention grading delays or not grading until the end of the semester. |
